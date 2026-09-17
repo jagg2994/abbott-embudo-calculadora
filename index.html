@@ -11,7 +11,7 @@
     h1{font-size:30px;line-height:1.15;margin:0} .subtitle{color:var(--muted);margin:9px 0 0}.top{display:flex;justify-content:space-between;gap:20px;align-items:end}.filter{margin:24px 0 16px;font-weight:750}.filter select{display:block;margin-top:5px;min-width:220px;border:1px solid #bad0d5;border-radius:8px;background:#fff;padding:10px;color:var(--ink);font:inherit}
     .card{background:var(--paper);border-radius:16px;padding:20px;box-shadow:0 2px 16px #16364212}.summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:16px}.kpi{background:#f5fafb;border-radius:10px;padding:13px}.kpi small{display:block;color:var(--muted);font-weight:700}.kpi strong{font-size:22px}.kpi span{color:var(--muted);font-size:12px}
     .chart-wrap{overflow-x:auto}.chart{width:100%;min-width:1120px;height:auto;display:block}.link{fill:none;stroke:var(--line);stroke-opacity:.48}.link.result{stroke-opacity:.62}.link.dashed{stroke-dasharray:6 5;stroke-opacity:.65}.node-title{font-size:13px;font-weight:800;fill:var(--ink)}.node-value{font-size:12px;fill:var(--ink)}.node-meta{font-size:11px;fill:var(--muted)}.channel-name{font-size:11px;font-weight:750;fill:var(--ink)}.channel-value{font-size:10px;fill:var(--muted)}.empty{padding:40px;text-align:center;color:var(--muted)}
-    .note{margin:16px 0 0;border-left:4px solid #e3af2e;background:#fff8e7;padding:12px 14px;color:#5f532a}.foot{margin:14px 0 0;color:var(--muted);font-size:12px}.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;font-size:12px}.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px}.hidden{display:none}
+    .note{margin:16px 0 0;border-left:4px solid #e3af2e;background:#fff8e7;padding:12px 14px;color:#5f532a}.foot{margin:14px 0 0;color:var(--muted);font-size:12px}.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;font-size:12px}.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px}.table-wrap{margin-top:24px;overflow:auto;border:1px solid #dce8ea;border-radius:10px}.table-wrap h2{font-size:16px;margin:0;padding:14px 14px 4px}.table-wrap p{margin:0;padding:0 14px 12px;color:var(--muted);font-size:12px}table{width:100%;min-width:540px;border-collapse:collapse}th,td{padding:9px 14px;border-top:1px solid #e5eeee;text-align:left}th{font-size:12px;color:var(--muted);background:#f8fbfb}.num{text-align:right}.hidden{display:none}
     @media(max-width:720px){.wrap{padding:23px 16px}.top{display:block}.summary{grid-template-columns:repeat(2,1fr)}h1{font-size:26px}}
   </style>
 </head>
@@ -25,6 +25,7 @@
       <div id="summary" class="summary"></div>
       <div class="chart-wrap"><svg id="chart" class="chart" viewBox="0 0 1420 720" role="img" aria-label="Diagrama Sankey de Growth Tool"></svg></div>
       <div class="legend"><span><i class="dot" style="background:var(--green)"></i>Resultado verde</span><span><i class="dot" style="background:var(--yellow)"></i>Resultado amarillo</span><span><i class="dot" style="background:var(--red)"></i>Resultado rojo</span></div>
+      <section class="table-wrap"><h2>Participación de tráfico por canal</h2><p>Usuarios que llegaron a la URL de Growth Tool; el porcentaje se calcula sobre el total de llegadas del país seleccionado.</p><table><thead><tr><th>Canal</th><th class="num">Usuarios llegada</th><th class="num">% del país</th></tr></thead><tbody id="channels"></tbody></table></section>
       <p id="note" class="note"></p><p class="foot">La llegada se mide en usuarios. Desde <code>gc_submission</code>, los nodos se miden en eventos; por eso el grosor cambia al entrar al resultado calculado.</p>
     </section>
   </main>
@@ -49,10 +50,12 @@
       const results=Object.keys(RESULT_LABEL).map(result=>({id:result,label:RESULT_LABEL[result],color:COLORS[result],...all.filter(r=>r.event==='gc_submission'&&r.result===result).reduce(add,{users:0,events:0})})).filter(r=>r.users||r.events);
       const resultTotal=results.reduce(add,{users:0,events:0});
       const channelMap={};base.filter(r=>r.event==='page_view').forEach(r=>channelMap[r.channel]=add(channelMap[r.channel]||{users:0,events:0},r));
-      let channels=Object.entries(channelMap).map(([name,v])=>({name,...v})).sort((a,b)=>b.users-a.users);
+      const channelBreakdown=Object.entries(channelMap).map(([name,v])=>({name,...v})).sort((a,b)=>b.users-a.users);
+      let channels=channelBreakdown;
       if(channels.length>8){const other=channels.slice(7).reduce(add,{users:0,events:0});channels=[...channels.slice(0,7),{name:'Otros canales',...other}];}
       renderSummary(landing,form,calculated,resultTotal,copy,click,registered,results.length);
       renderChart({country,landing,form,calculated,copy,click,registered,results,resultTotal,channels});
+      $('#channels').innerHTML=channelBreakdown.map(channel=>`<tr><td>${esc(channel.name)}</td><td class="num">${nf.format(channel.users)}</td><td class="num">${pct(channel.users/Math.max(1,landing.users))}</td></tr>`).join('')||'<tr><td colspan="3">Sin datos de llegada por canal.</td></tr>';
     }
     function renderSummary(landing,form,calculated,resultTotal,copy,click,registered,resultCount){
       $('#summary').innerHTML=[
@@ -62,7 +65,7 @@
         ['Resultados clasificados',resultTotal.events,`${resultCount?`${resultCount} tipos medidos`:'Sin parámetro result'}`],
         ['Clic copiar · verde',copy.events,'eventos gc_share_tool'],
         ['Clic cupón o registro',click.events,'eventos gc_register_button'],
-        ['Registro exitoso · amarillo/rojo',registered.events,'eventos registro_exitoso'],
+        ['Registro exitoso · sitio país',registered.events,'evento no atribuible aún a Growth Tool'],
       ].map(([label,value,detail])=>`<div class="kpi"><small>${label}</small><strong>${nf.format(value)}</strong><span>${detail}</span></div>`).join('');
     }
     function renderChart(model){
@@ -111,12 +114,12 @@
       }
       if(model.registered.events){
         const h=Math.max(42,Math.min(240,240*model.registered.events/maxEvents)), from=model.click.events?actionX+32:calculation.x+32;
-        svg.insertAdjacentHTML('beforeend',link(from,355,registrationX,355,weight(model.registered.events),'#1b7185',!model.click.events));
-        svg.insertAdjacentHTML('beforeend',node(registrationX,355-h/2,32,h,'#1b7185','Registro exitoso',model.registered,'registro_exitoso · rutas amarillo y rojo'));
+        svg.insertAdjacentHTML('beforeend',link(from,355,registrationX,355,weight(model.registered.events),'#7f8e92',true));
+        svg.insertAdjacentHTML('beforeend',node(registrationX,355-h/2,32,h,'#7f8e92','Registro exitoso · sitio',model.registered,'No atribuible aún a Growth Tool'));
       } else {
         svg.insertAdjacentHTML('beforeend','<text class="node-meta" x="1320" y="355" text-anchor="middle">Sin evento de registro exitoso medido</text>');
       }
-      $('#note').textContent='La llegada usa usuarios. Desde gc_submission todo se expresa como eventos: gc_submission se reparte exactamente entre rojo, amarillo y verde. Por definición de la experiencia, verde conduce a copiar; amarillo y rojo conducen al registro. Los eventos de clic y registro están agregados por país y canal, por lo que el gráfico presenta esa ruta funcional sin repartir el total de registros entre amarillo y rojo.';
+      $('#note').textContent='Validación: gc_submission se reparte exactamente entre rojo, amarillo y verde. La llegada usa usuarios; desde gc_submission todo se expresa como eventos. Por definición de la experiencia, verde conduce a copiar y amarillo/rojo conducen al registro. El nodo gris de registro es una referencia de eventos de todo el sitio del país: no se interpreta como una conversión de Growth Tool hasta medir el origen o el resultado dentro de registro_exitoso.';
     }
   </script>
 </body>
