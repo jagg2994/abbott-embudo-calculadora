@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T16:17:50.858Z",
+  "generatedAt": "2026-09-17T16:21:36.714Z",
   "metrics": [
     "Usuarios",
     "Eventos"
@@ -7508,6 +7508,89 @@
       "events": 976
     }
   ],
+  "validation": {
+    "resultReconciliation": "passed",
+    "countries": [
+      {
+        "country": "AR",
+        "gcSubmissionEvents": 11966,
+        "resultEvents": 11966,
+        "difference": 0
+      },
+      {
+        "country": "CL",
+        "gcSubmissionEvents": 38298,
+        "resultEvents": 38298,
+        "difference": 0
+      },
+      {
+        "country": "CO",
+        "gcSubmissionEvents": 69955,
+        "resultEvents": 69955,
+        "difference": 0
+      },
+      {
+        "country": "CR",
+        "gcSubmissionEvents": 44931,
+        "resultEvents": 44931,
+        "difference": 0
+      },
+      {
+        "country": "DO",
+        "gcSubmissionEvents": 42128,
+        "resultEvents": 42128,
+        "difference": 0
+      },
+      {
+        "country": "EC",
+        "gcSubmissionEvents": 36184,
+        "resultEvents": 36184,
+        "difference": 0
+      },
+      {
+        "country": "GT",
+        "gcSubmissionEvents": 130788,
+        "resultEvents": 130788,
+        "difference": 0
+      },
+      {
+        "country": "HN",
+        "gcSubmissionEvents": 47457,
+        "resultEvents": 47457,
+        "difference": 0
+      },
+      {
+        "country": "MX",
+        "gcSubmissionEvents": 54261,
+        "resultEvents": 54261,
+        "difference": 0
+      },
+      {
+        "country": "NI",
+        "gcSubmissionEvents": 45491,
+        "resultEvents": 45491,
+        "difference": 0
+      },
+      {
+        "country": "PA",
+        "gcSubmissionEvents": 24494,
+        "resultEvents": 24494,
+        "difference": 0
+      },
+      {
+        "country": "PE",
+        "gcSubmissionEvents": 60973,
+        "resultEvents": 60973,
+        "difference": 0
+      },
+      {
+        "country": "SV",
+        "gcSubmissionEvents": 34184,
+        "resultEvents": 34184,
+        "difference": 0
+      }
+    ]
+  },
   "ready": true,
   "message": ""
 }

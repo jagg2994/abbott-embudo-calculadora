@@ -35,7 +35,7 @@
     const COLORS={result_green:'#54a66a',result_yellow:'#dda914',result_red:'#d95862','(not set)':'#88979b'};
     const RESULT_LABEL={result_green:'Resultado verde',result_yellow:'Resultado amarillo',result_red:'Resultado rojo','(not set)':'Sin resultado registrado'};
     let D;
-    fetch('./data/growth-funnel-data.json').then(r=>r.json()).then(data=>{D=data;init()}).catch(()=>{$('#content').innerHTML='<p class="empty">No fue posible cargar los datos del embudo.</p>'});
+    fetch('./data/growth-funnel-data.json?v=strict-registration-20260917').then(r=>r.json()).then(data=>{D=data;init()}).catch(()=>{$('#content').innerHTML='<p class="empty">No fue posible cargar los datos del embudo.</p>'});
     function init(){
       const countries=[...new Set(D.rows.map(r=>r.country).filter(Boolean))].sort();
       $('#country').innerHTML=countries.map(country=>`<option value="${esc(country)}">${esc(country)}</option>`).join('');
