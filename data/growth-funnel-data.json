@@ -1,0 +1,7673 @@
+{
+  "generatedAt": "2026-09-17T15:25:09.789Z",
+  "metrics": [
+    "Usuarios",
+    "Eventos"
+  ],
+  "steps": [
+    {
+      "id": "page_view",
+      "label": "Llegada a Growth Tool"
+    },
+    {
+      "id": "form_start",
+      "label": "Inicio de formulario"
+    },
+    {
+      "id": "gc_submission",
+      "label": "Resultado calculado"
+    },
+    {
+      "id": "gc_register_button",
+      "label": "Clic cupón o registro"
+    },
+    {
+      "id": "registro_exitoso",
+      "label": "Registro exitoso"
+    }
+  ],
+  "rows": [
+    {
+      "country": "AR",
+      "channel": "AI Assistant",
+      "event": "form_start",
+      "result": "",
+      "users": 1,
+      "events": 3
+    },
+    {
+      "country": "AR",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 4
+    },
+    {
+      "country": "AR",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "form_start",
+      "result": "",
+      "users": 381,
+      "events": 622
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 5,
+      "events": 9
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 2,
+      "events": 6
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 322,
+      "events": 519
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 260,
+      "events": 375
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 64,
+      "events": 74
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 61,
+      "events": 70
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 522,
+      "events": 1004
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 164,
+      "events": 181
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "form_start",
+      "result": "",
+      "users": 98,
+      "events": 167
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 35,
+      "events": 51
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 3,
+      "events": 7
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 71,
+      "events": 124
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "(not set)",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 23,
+      "events": 36
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 47,
+      "events": 70
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 14,
+      "events": 17
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 438,
+      "events": 633
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 74,
+      "events": 89
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "form_start",
+      "result": "",
+      "users": 556,
+      "events": 679
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 9,
+      "events": 9
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 4,
+      "events": 14
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 394,
+      "events": 472
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 296,
+      "events": 346
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 60,
+      "events": 63
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 59,
+      "events": 63
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 7145,
+      "events": 9442
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 38,
+      "events": 42
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "form_start",
+      "result": "",
+      "users": 10,
+      "events": 11
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 6,
+      "events": 7
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 26,
+      "events": 34
+    },
+    {
+      "country": "AR",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "form_start",
+      "result": "",
+      "users": 54,
+      "events": 74
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 47,
+      "events": 65
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 28,
+      "events": 36
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 12,
+      "events": 16
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 12,
+      "events": 13
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 97,
+      "events": 136
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 114,
+      "events": 134
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "form_start",
+      "result": "",
+      "users": 3,
+      "events": 6
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3,
+      "events": 5
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 30,
+      "events": 68
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "form_start",
+      "result": "",
+      "users": 11771,
+      "events": 14479
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 120,
+      "events": 126
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 37,
+      "events": 112
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 8832,
+      "events": 10500
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 6927,
+      "events": 7943
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1066,
+      "events": 1168
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1287,
+      "events": 1389
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 19119,
+      "events": 27566
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 328,
+      "events": 367
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "event": "form_start",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "form_start",
+      "result": "",
+      "users": 162,
+      "events": 335
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 80,
+      "events": 177
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 5,
+      "events": 10
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 111,
+      "events": 261
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "(not set)",
+      "users": 3,
+      "events": 7
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 29,
+      "events": 43
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 93,
+      "events": 169
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 15,
+      "events": 42
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 272,
+      "events": 540
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 144,
+      "events": 199
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "form_start",
+      "result": "",
+      "users": 14,
+      "events": 17
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 9,
+      "events": 10
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7,
+      "events": 8
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 29,
+      "events": 39
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CL",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "CL",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CL",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "CL",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 5,
+      "events": 5
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 8,
+      "events": 17
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 471,
+      "events": 768
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 386,
+      "events": 581
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 74,
+      "events": 89
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 88,
+      "events": 98
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 184148,
+      "events": 221896
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 72,
+      "events": 77
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 40,
+      "events": 65
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 9,
+      "events": 17
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 308,
+      "events": 421
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 183,
+      "events": 232
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 102,
+      "events": 132
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 54,
+      "events": 57
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 5316,
+      "events": 6255
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 798,
+      "events": 987
+    },
+    {
+      "country": "CL",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "CL",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "CL",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 3067,
+      "events": 4136
+    },
+    {
+      "country": "CL",
+      "channel": "Display",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 45,
+      "events": 45
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 10,
+      "events": 11
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 30,
+      "events": 37
+    },
+    {
+      "country": "CL",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 71,
+      "events": 83
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 456,
+      "events": 512
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 268,
+      "events": 292
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 104,
+      "events": 109
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 103,
+      "events": 111
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 1050,
+      "events": 1346
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 332,
+      "events": 368
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 120,
+      "events": 177
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 92,
+      "events": 130
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 19,
+      "events": 22
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 24,
+      "events": 25
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 202,
+      "events": 313
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 34,
+      "events": 37
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Video",
+      "event": "page_view",
+      "result": "",
+      "users": 35,
+      "events": 43
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 76,
+      "events": 108
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 62,
+      "events": 86
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 9,
+      "events": 10
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 11,
+      "events": 12
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 21786,
+      "events": 29459
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 25,
+      "events": 28
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 36,
+      "events": 54
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4853,
+      "events": 5849
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3987,
+      "events": 4632
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 435,
+      "events": 478
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 684,
+      "events": 739
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 9355,
+      "events": 13326
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1824,
+      "events": 1970
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 11,
+      "events": 11
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 359,
+      "events": 440
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 24700,
+      "events": 29934
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 20141,
+      "events": 23828
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2443,
+      "events": 2526
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3428,
+      "events": 3580
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 329104,
+      "events": 432957
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 302,
+      "events": 330
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Video",
+      "event": "page_view",
+      "result": "",
+      "users": 12,
+      "events": 18
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 34,
+      "events": 81
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 5,
+      "events": 7
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 77,
+      "events": 182
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 29,
+      "events": 46
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 62,
+      "events": 102
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 16,
+      "events": 34
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 277,
+      "events": 548
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 89,
+      "events": 113
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 12,
+      "events": 33
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 276,
+      "events": 327
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 206,
+      "events": 237
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 54,
+      "events": 54
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 34,
+      "events": 36
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 128797,
+      "events": 182632
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 136,
+      "events": 143
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 9,
+      "events": 11
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 6,
+      "events": 6
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 12,
+      "events": 16
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 26,
+      "events": 27
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 3463,
+      "events": 5544
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 532,
+      "events": 739
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 17186,
+      "events": 23995
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 10782,
+      "events": 13217
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4375,
+      "events": 6363
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3721,
+      "events": 4415
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 443247,
+      "events": 612367
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 4551,
+      "events": 7641
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1567,
+      "events": 3011
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 78,
+      "events": 115
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2461,
+      "events": 10664
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 945,
+      "events": 5080
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1772,
+      "events": 4110
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 652,
+      "events": 1474
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 5597,
+      "events": 19290
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 6552,
+      "events": 10778
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 135,
+      "events": 341
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 7,
+      "events": 11
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 186,
+      "events": 661
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 55,
+      "events": 221
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 126,
+      "events": 300
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 63,
+      "events": 140
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 701,
+      "events": 1879
+    },
+    {
+      "country": "CO",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 520,
+      "events": 939
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1231,
+      "events": 2751
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 49,
+      "events": 77
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2503,
+      "events": 5772
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 945,
+      "events": 1868
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1477,
+      "events": 3117
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 533,
+      "events": 787
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 4757,
+      "events": 11575
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 5107,
+      "events": 8547
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 52,
+      "events": 70
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 3,
+      "events": 5
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 112,
+      "events": 157
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 54,
+      "events": 68
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 35,
+      "events": 43
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 34,
+      "events": 46
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 446,
+      "events": 588
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 61,
+      "events": 79
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Video",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Other",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 12,
+      "events": 13
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Other",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2007,
+      "events": 4043
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 110,
+      "events": 161
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3641,
+      "events": 10333
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1474,
+      "events": 4099
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2184,
+      "events": 4687
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 775,
+      "events": 1547
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 15313,
+      "events": 29480
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 8169,
+      "events": 13387
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2506,
+      "events": 3408
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 351,
+      "events": 422
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 12132,
+      "events": 15118
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7745,
+      "events": 9078
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2461,
+      "events": 2771
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2924,
+      "events": 3269
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 79548,
+      "events": 103854
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1664,
+      "events": 2044
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 6
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "page_view",
+      "result": "",
+      "users": 38,
+      "events": 46
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Video",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 115,
+      "events": 236
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 9,
+      "events": 14
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 192,
+      "events": 370
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 66,
+      "events": 90
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 130,
+      "events": 233
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 31,
+      "events": 47
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 534,
+      "events": 987
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 295,
+      "events": 528
+    },
+    {
+      "country": "CO",
+      "channel": "SMS",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 169,
+      "events": 373
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 22,
+      "events": 51
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 505,
+      "events": 2866
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 255,
+      "events": 1564
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 319,
+      "events": 972
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 148,
+      "events": 330
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 2736,
+      "events": 7074
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 732,
+      "events": 1145
+    },
+    {
+      "country": "CR",
+      "channel": "AI Assistant",
+      "event": "form_start",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CR",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CR",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CR",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "form_start",
+      "result": "",
+      "users": 19564,
+      "events": 25234
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 12947,
+      "events": 16731
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 8306,
+      "events": 10226
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4048,
+      "events": 4621
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1703,
+      "events": 1884
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 95791,
+      "events": 150949
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "form_start",
+      "result": "",
+      "users": 103,
+      "events": 138
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 80,
+      "events": 99
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 38,
+      "events": 44
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 34,
+      "events": 38
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 14,
+      "events": 17
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 294,
+      "events": 487
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "form_start",
+      "result": "",
+      "users": 8,
+      "events": 11
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 8,
+      "events": 11
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 5,
+      "events": 6
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 33,
+      "events": 80
+    },
+    {
+      "country": "CR",
+      "channel": "Email",
+      "event": "form_start",
+      "result": "",
+      "users": 3,
+      "events": 5
+    },
+    {
+      "country": "CR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "CR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 3,
+      "events": 5
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "form_start",
+      "result": "",
+      "users": 816,
+      "events": 1075
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 649,
+      "events": 847
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 523,
+      "events": 660
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 83,
+      "events": 94
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 84,
+      "events": 93
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 1174,
+      "events": 1860
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "form_start",
+      "result": "",
+      "users": 188,
+      "events": 326
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 158,
+      "events": 264
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 78,
+      "events": 127
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 51,
+      "events": 82
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 41,
+      "events": 55
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 542,
+      "events": 785
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "form_start",
+      "result": "",
+      "users": 10,
+      "events": 14
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 7,
+      "events": 10
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 5,
+      "events": 5
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 43,
+      "events": 85
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "form_start",
+      "result": "",
+      "users": 6126,
+      "events": 7610
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4916,
+      "events": 6001
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3645,
+      "events": 4342
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 711,
+      "events": 792
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 771,
+      "events": 867
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 10268,
+      "events": 15838
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "form_start",
+      "result": "",
+      "users": 10014,
+      "events": 12514
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 7532,
+      "events": 9379
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 5025,
+      "events": 5980
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1523,
+      "events": 1724
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1489,
+      "events": 1675
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 23446,
+      "events": 29817
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "form_start",
+      "result": "",
+      "users": 129,
+      "events": 234
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 124,
+      "events": 214
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 74,
+      "events": 123
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 54,
+      "events": 70
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 17,
+      "events": 21
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 211,
+      "events": 411
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "form_start",
+      "result": "",
+      "users": 861,
+      "events": 11609
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 836,
+      "events": 11370
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 808,
+      "events": 9275
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 414,
+      "events": 909
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 499,
+      "events": 1186
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 1157,
+      "events": 13021
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 25204,
+      "events": 32607
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "(not set)",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 11164,
+      "events": 13806
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 15120,
+      "events": 17358
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1331,
+      "events": 1441
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 246790,
+      "events": 407907
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 76,
+      "events": 108
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 49,
+      "events": 67
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 23,
+      "events": 32
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 9,
+      "events": 9
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 401,
+      "events": 581
+    },
+    {
+      "country": "DO",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 41,
+      "events": 85
+    },
+    {
+      "country": "DO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 7,
+      "events": 10
+    },
+    {
+      "country": "DO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "DO",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "DO",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 8,
+      "events": 11
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 400,
+      "events": 533
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 342,
+      "events": 433
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 41,
+      "events": 46
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 48,
+      "events": 54
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 694,
+      "events": 1116
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 32,
+      "events": 38
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 23,
+      "events": 25
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5,
+      "events": 5
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 8,
+      "events": 8
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 489,
+      "events": 552
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 7,
+      "events": 11
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 6,
+      "events": 7
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 105,
+      "events": 182
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3999,
+      "events": 4965
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2961,
+      "events": 3509
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 810,
+      "events": 894
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 506,
+      "events": 562
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 13857,
+      "events": 20348
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2790,
+      "events": 3470
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1840,
+      "events": 2185
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 772,
+      "events": 838
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 398,
+      "events": 447
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 28406,
+      "events": 32782
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 165,
+      "events": 285
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 100,
+      "events": 152
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 42,
+      "events": 79
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 45,
+      "events": 54
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 325,
+      "events": 629
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 66,
+      "events": 99
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 30,
+      "events": 36
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 39,
+      "events": 51
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 10,
+      "events": 12
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 681,
+      "events": 1137
+    },
+    {
+      "country": "EC",
+      "channel": "AI Assistant",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "EC",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "EC",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "EC",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 7,
+      "events": 7
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 8,
+      "events": 9
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1027,
+      "events": 1575
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 743,
+      "events": 1029
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 207,
+      "events": 256
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 253,
+      "events": 290
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 1429,
+      "events": 2634
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 23,
+      "events": 27
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 144,
+      "events": 291
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 57,
+      "events": 155
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 408,
+      "events": 654
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 189,
+      "events": 238
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 195,
+      "events": 333
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 75,
+      "events": 83
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 2059,
+      "events": 3351
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 226,
+      "events": 344
+    },
+    {
+      "country": "EC",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 3
+    },
+    {
+      "country": "EC",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 1192,
+      "events": 1411
+    },
+    {
+      "country": "EC",
+      "channel": "Display",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 8,
+      "events": 10
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 10,
+      "events": 14
+    },
+    {
+      "country": "EC",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 11,
+      "events": 32
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 7,
+      "events": 20
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 721,
+      "events": 954
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 545,
+      "events": 689
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 103,
+      "events": 140
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 119,
+      "events": 125
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 1195,
+      "events": 1924
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 82,
+      "events": 91
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 103,
+      "events": 135
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 66,
+      "events": 79
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 23,
+      "events": 28
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 27,
+      "events": 28
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 178,
+      "events": 262
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 18,
+      "events": 20
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 4,
+      "events": 7
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Other",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 53,
+      "events": 56
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 83,
+      "events": 127
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 6950,
+      "events": 8342
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4761,
+      "events": 5428
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1143,
+      "events": 1254
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1490,
+      "events": 1660
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 13177,
+      "events": 18591
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 155,
+      "events": 165
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 256,
+      "events": 314
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 694,
+      "events": 1084
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 19346,
+      "events": 24263
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 12409,
+      "events": 14657
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4133,
+      "events": 4481
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 4694,
+      "events": 5125
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 134181,
+      "events": 207563
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 893,
+      "events": 901
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 41,
+      "events": 116
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 19,
+      "events": 109
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 80,
+      "events": 197
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 35,
+      "events": 80
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 58,
+      "events": 93
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 14,
+      "events": 24
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 204,
+      "events": 573
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 72,
+      "events": 130
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 45,
+      "events": 54
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 30,
+      "events": 34
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 10,
+      "events": 11
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 8,
+      "events": 9
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 202,
+      "events": 301
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "GT",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4,
+      "events": 8
+    },
+    {
+      "country": "GT",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "GT",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "GT",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 5
+    },
+    {
+      "country": "GT",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 5,
+      "events": 13
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 60390,
+      "events": 78630
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 28661,
+      "events": 35542
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 31241,
+      "events": 36260
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 6107,
+      "events": 6828
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 509602,
+      "events": 980458
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 434,
+      "events": 3809
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 292,
+      "events": 3463
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 144,
+      "events": 197
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 104,
+      "events": 149
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 1044,
+      "events": 5098
+    },
+    {
+      "country": "GT",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 27,
+      "events": 39
+    },
+    {
+      "country": "GT",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 14,
+      "events": 19
+    },
+    {
+      "country": "GT",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 10,
+      "events": 11
+    },
+    {
+      "country": "GT",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 8,
+      "events": 9
+    },
+    {
+      "country": "GT",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 373,
+      "events": 665
+    },
+    {
+      "country": "GT",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 19,
+      "events": 34
+    },
+    {
+      "country": "GT",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7,
+      "events": 7
+    },
+    {
+      "country": "GT",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 8,
+      "events": 20
+    },
+    {
+      "country": "GT",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 5,
+      "events": 7
+    },
+    {
+      "country": "GT",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 39,
+      "events": 73
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1891,
+      "events": 3031
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1378,
+      "events": 2045
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 351,
+      "events": 527
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 350,
+      "events": 459
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 3089,
+      "events": 5522
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 620,
+      "events": 902
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 313,
+      "events": 441
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 222,
+      "events": 274
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 148,
+      "events": 187
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 1415,
+      "events": 2265
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 9,
+      "events": 12
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 5
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 124,
+      "events": 262
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 16584,
+      "events": 21228
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 10162,
+      "events": 12484
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4265,
+      "events": 4939
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3343,
+      "events": 3805
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 40999,
+      "events": 63778
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 17561,
+      "events": 22430
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 9448,
+      "events": 11326
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5906,
+      "events": 6997
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3580,
+      "events": 4107
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 58666,
+      "events": 79341
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Video",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 107,
+      "events": 163
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 61,
+      "events": 84
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 40,
+      "events": 50
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 22,
+      "events": 29
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 281,
+      "events": 512
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 360,
+      "events": 502
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 225,
+      "events": 301
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 116,
+      "events": 125
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 60,
+      "events": 76
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 2678,
+      "events": 5048
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 26172,
+      "events": 33411
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 11629,
+      "events": 14223
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 15144,
+      "events": 17370
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1693,
+      "events": 1818
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 223741,
+      "events": 404225
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 95,
+      "events": 142
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 48,
+      "events": 70
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 40,
+      "events": 50
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 19,
+      "events": 22
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 296,
+      "events": 505
+    },
+    {
+      "country": "HN",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 6,
+      "events": 8
+    },
+    {
+      "country": "HN",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5,
+      "events": 6
+    },
+    {
+      "country": "HN",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 44,
+      "events": 84
+    },
+    {
+      "country": "HN",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 7,
+      "events": 14
+    },
+    {
+      "country": "HN",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "HN",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 12,
+      "events": 23
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 32,
+      "events": 47
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 18,
+      "events": 27
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 13,
+      "events": 18
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 57,
+      "events": 91
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 94,
+      "events": 174
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 36,
+      "events": 59
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 52,
+      "events": 89
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 21,
+      "events": 26
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 430,
+      "events": 631
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 65,
+      "events": 110
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 6314,
+      "events": 7768
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4349,
+      "events": 5089
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1352,
+      "events": 1582
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 978,
+      "events": 1097
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 16500,
+      "events": 25149
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4624,
+      "events": 5755
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2507,
+      "events": 2949
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1809,
+      "events": 2079
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 635,
+      "events": 727
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 40877,
+      "events": 60468
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 10,
+      "events": 14
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 6,
+      "events": 6
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 6,
+      "events": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 29,
+      "events": 46
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 93,
+      "events": 123
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 45,
+      "events": 58
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 45,
+      "events": 53
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 10,
+      "events": 12
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 963,
+      "events": 1669
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "MX",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 89,
+      "events": 102
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 52,
+      "events": 118
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 926,
+      "events": 1400
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 690,
+      "events": 941
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 196,
+      "events": 234
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 196,
+      "events": 225
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 87712,
+      "events": 110080
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 332,
+      "events": 441
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 270,
+      "events": 375
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 139,
+      "events": 328
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 647,
+      "events": 937
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 393,
+      "events": 514
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 191,
+      "events": 238
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 159,
+      "events": 185
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 1623,
+      "events": 2632
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 610,
+      "events": 803
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 12,
+      "events": 13
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7,
+      "events": 8
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 346,
+      "events": 427
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 80,
+      "events": 82
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 15,
+      "events": 27
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 9,
+      "events": 20
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 21,
+      "events": 27
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 14,
+      "events": 14
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 8,
+      "events": 12
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 77,
+      "events": 159
+    },
+    {
+      "country": "MX",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 140,
+      "events": 196
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 98,
+      "events": 111
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 48,
+      "events": 108
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 324,
+      "events": 449
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 199,
+      "events": 258
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 81,
+      "events": 92
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 78,
+      "events": 99
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 633,
+      "events": 938
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 676,
+      "events": 782
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 40,
+      "events": 49
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 24,
+      "events": 54
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 202,
+      "events": 294
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 148,
+      "events": 191
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 43,
+      "events": 51
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 48,
+      "events": 52
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 352,
+      "events": 572
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 42,
+      "events": 51
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Other",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 6,
+      "events": 6
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 72,
+      "events": 78
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 66,
+      "events": 116
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4163,
+      "events": 4712
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3018,
+      "events": 3303
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 582,
+      "events": 626
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 731,
+      "events": 783
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 8695,
+      "events": 11436
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 323,
+      "events": 351
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 6988,
+      "events": 7884
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 4699,
+      "events": 10289
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 36343,
+      "events": 46058
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 26119,
+      "events": 31578
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5744,
+      "events": 6192
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 7652,
+      "events": 8288
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 162155,
+      "events": 195054
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 2739,
+      "events": 2910
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "event": "page_view",
+      "result": "",
+      "users": 66,
+      "events": 82
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 80,
+      "events": 143
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 34,
+      "events": 85
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 135,
+      "events": 268
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 67,
+      "events": 104
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 69,
+      "events": 125
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 34,
+      "events": 39
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 442,
+      "events": 1018
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 120,
+      "events": 196
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 26,
+      "events": 29
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 19,
+      "events": 37
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 77,
+      "events": 97
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 50,
+      "events": 58
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 15,
+      "events": 17
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 21,
+      "events": 22
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 247,
+      "events": 376
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 39,
+      "events": 43
+    },
+    {
+      "country": "NI",
+      "channel": "AI Assistant",
+      "event": "form_start",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "form_start",
+      "result": "",
+      "users": 62170,
+      "events": 78283
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 26438,
+      "events": 33288
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 12539,
+      "events": 15091
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 14106,
+      "events": 16071
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1952,
+      "events": 2126
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 301317,
+      "events": 514424
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "form_start",
+      "result": "",
+      "users": 38,
+      "events": 44
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 30,
+      "events": 32
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 10,
+      "events": 10
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 19,
+      "events": 20
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 230,
+      "events": 341
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "event": "form_start",
+      "result": "",
+      "users": 4,
+      "events": 5
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 3
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 44,
+      "events": 95
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "form_start",
+      "result": "",
+      "users": 31,
+      "events": 38
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 25,
+      "events": 32
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 14,
+      "events": 17
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 6,
+      "events": 6
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 7,
+      "events": 9
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 51,
+      "events": 88
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "form_start",
+      "result": "",
+      "users": 21,
+      "events": 25
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 13,
+      "events": 15
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 9,
+      "events": 11
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 290,
+      "events": 314
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Other",
+      "event": "form_start",
+      "result": "",
+      "users": 12,
+      "events": 16
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 8
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 107,
+      "events": 214
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "form_start",
+      "result": "",
+      "users": 6108,
+      "events": 7352
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4086,
+      "events": 4799
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2925,
+      "events": 3324
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 802,
+      "events": 873
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 567,
+      "events": 602
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 13090,
+      "events": 19151
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "form_start",
+      "result": "",
+      "users": 15191,
+      "events": 19389
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5190,
+      "events": 6192
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2737,
+      "events": 3129
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2274,
+      "events": 2496
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 529,
+      "events": 567
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 128721,
+      "events": 204870
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "form_start",
+      "result": "",
+      "users": 33,
+      "events": 49
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 29,
+      "events": 45
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 15,
+      "events": 21
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 19,
+      "events": 23
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 51,
+      "events": 83
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "form_start",
+      "result": "",
+      "users": 315,
+      "events": 1401
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 185,
+      "events": 1075
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 152,
+      "events": 665
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 81,
+      "events": 115
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 87,
+      "events": 295
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 1397,
+      "events": 3912
+    },
+    {
+      "country": "PA",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PA",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PA",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 11753,
+      "events": 15162
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 5817,
+      "events": 7123
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5926,
+      "events": 6798
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1097,
+      "events": 1241
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 116691,
+      "events": 205512
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 35,
+      "events": 44
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 16,
+      "events": 20
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 19,
+      "events": 21
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 149,
+      "events": 225
+    },
+    {
+      "country": "PA",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 9
+    },
+    {
+      "country": "PA",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3,
+      "events": 5
+    },
+    {
+      "country": "PA",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 29,
+      "events": 72
+    },
+    {
+      "country": "PA",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 8
+    },
+    {
+      "country": "PA",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "PA",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "PA",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 11,
+      "events": 21
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 137,
+      "events": 212
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 94,
+      "events": 133
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 26,
+      "events": 31
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 43,
+      "events": 48
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 192,
+      "events": 350
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 14,
+      "events": 21
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 5,
+      "events": 5
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 10,
+      "events": 13
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 256,
+      "events": 287
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 8
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 133,
+      "events": 288
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2841,
+      "events": 3384
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1968,
+      "events": 2245
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 608,
+      "events": 664
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 431,
+      "events": 475
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 7507,
+      "events": 11356
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 2061,
+      "events": 2595
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1215,
+      "events": 1460
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 622,
+      "events": 714
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 358,
+      "events": 421
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 10628,
+      "events": 13297
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 74,
+      "events": 113
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 39,
+      "events": 52
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 32,
+      "events": 44
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 12,
+      "events": 17
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 130,
+      "events": 230
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 334,
+      "events": 2936
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 316,
+      "events": 2376
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 137,
+      "events": 226
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 189,
+      "events": 334
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 1158,
+      "events": 10813
+    },
+    {
+      "country": "PE",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "PE",
+      "channel": "AI Assistant",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "AI Assistant",
+      "event": "page_view",
+      "result": "",
+      "users": 8,
+      "events": 10
+    },
+    {
+      "country": "PE",
+      "channel": "AI Assistant",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 13,
+      "events": 14
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1180,
+      "events": 1611
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 760,
+      "events": 1836
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 9271,
+      "events": 11641
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7007,
+      "events": 8396
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1342,
+      "events": 1471
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1622,
+      "events": 1774
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 129735,
+      "events": 171957
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 7398,
+      "events": 8578
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 181,
+      "events": 280
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 86,
+      "events": 209
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 300,
+      "events": 397
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 159,
+      "events": 185
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 113,
+      "events": 142
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 62,
+      "events": 70
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 1610,
+      "events": 2035
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 929,
+      "events": 1194
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 9
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 651,
+      "events": 870
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 6,
+      "events": 7
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 2,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 8,
+      "events": 8
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 61,
+      "events": 97
+    },
+    {
+      "country": "PE",
+      "channel": "Email",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 55,
+      "events": 74
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 146,
+      "events": 225
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 79,
+      "events": 190
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 464,
+      "events": 677
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 317,
+      "events": 447
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 103,
+      "events": 127
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 85,
+      "events": 103
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 924,
+      "events": 1443
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1084,
+      "events": 1461
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 39,
+      "events": 54
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 22,
+      "events": 54
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 96,
+      "events": 123
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 68,
+      "events": 81
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 17,
+      "events": 19
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 22,
+      "events": 23
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 276,
+      "events": 355
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 80,
+      "events": 89
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 1,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "gc_submission",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "page_view",
+      "result": "",
+      "users": 71,
+      "events": 87
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Video",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 7
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 5,
+      "events": 6
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 212,
+      "events": 527
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Other",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 13,
+      "events": 18
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 524,
+      "events": 652
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 348,
+      "events": 739
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 6169,
+      "events": 7465
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4683,
+      "events": 5462
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 780,
+      "events": 858
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1063,
+      "events": 1145
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 17061,
+      "events": 23508
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 343,
+      "events": 468
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 6806,
+      "events": 9601
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 4733,
+      "events": 11436
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 32186,
+      "events": 39884
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 25152,
+      "events": 29642
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 4416,
+      "events": 4748
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 5089,
+      "events": 5494
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 146266,
+      "events": 218516
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 6706,
+      "events": 8743
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 4,
+      "events": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "",
+      "users": 51,
+      "events": 60
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 34,
+      "events": 37
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 9,
+      "events": 9
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 13,
+      "events": 14
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "page_view",
+      "result": "",
+      "users": 1665,
+      "events": 2209
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Video",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 7,
+      "events": 7
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 38,
+      "events": 67
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 12,
+      "events": 25
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 61,
+      "events": 100
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 25,
+      "events": 30
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 37,
+      "events": 55
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 11,
+      "events": 15
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 233,
+      "events": 443
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 77,
+      "events": 97
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_register_button",
+      "result": "",
+      "users": 23,
+      "events": 38
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_share_tool",
+      "result": "",
+      "users": 33,
+      "events": 70
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 465,
+      "events": 597
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 342,
+      "events": 400
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 98,
+      "events": 126
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 63,
+      "events": 71
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 1444,
+      "events": 2222
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "event": "registro_exitoso",
+      "result": "",
+      "users": 406,
+      "events": 490
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "",
+      "users": 16917,
+      "events": 22355
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 9347,
+      "events": 11775
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 7510,
+      "events": 8665
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1755,
+      "events": 1915
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "event": "page_view",
+      "result": "",
+      "users": 151361,
+      "events": 257360
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "",
+      "users": 37,
+      "events": 48
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 19,
+      "events": 23
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 18,
+      "events": 18
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 6,
+      "events": 7
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "event": "page_view",
+      "result": "",
+      "users": 177,
+      "events": 235
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "",
+      "users": 5,
+      "events": 13
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 4,
+      "events": 8
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 4
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "event": "page_view",
+      "result": "",
+      "users": 14,
+      "events": 34
+    },
+    {
+      "country": "SV",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "",
+      "users": 3,
+      "events": 6
+    },
+    {
+      "country": "SV",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 1,
+      "events": 2
+    },
+    {
+      "country": "SV",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 2,
+      "events": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Email",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Email",
+      "event": "page_view",
+      "result": "",
+      "users": 4,
+      "events": 9
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 16,
+      "events": 19
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 7,
+      "events": 7
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 7,
+      "events": 7
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 5,
+      "events": 5
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "event": "page_view",
+      "result": "",
+      "users": 36,
+      "events": 52
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 44,
+      "events": 55
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 31,
+      "events": 35
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 11,
+      "events": 12
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 8,
+      "events": 8
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "event": "page_view",
+      "result": "",
+      "users": 312,
+      "events": 359
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4,
+      "events": 6
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Other",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 1,
+      "events": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Other",
+      "event": "page_view",
+      "result": "",
+      "users": 56,
+      "events": 104
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4667,
+      "events": 5475
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3354,
+      "events": 3782
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 779,
+      "events": 843
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 781,
+      "events": 850
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "event": "page_view",
+      "result": "",
+      "users": 10473,
+      "events": 15080
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "",
+      "users": 4986,
+      "events": 6124
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 3290,
+      "events": 3841
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 1167,
+      "events": 1266
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 951,
+      "events": 1017
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "event": "page_view",
+      "result": "",
+      "users": 19726,
+      "events": 24128
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "",
+      "users": 15,
+      "events": 21
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 6,
+      "events": 6
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 11,
+      "events": 13
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 2,
+      "events": 2
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "event": "page_view",
+      "result": "",
+      "users": 46,
+      "events": 61
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "",
+      "users": 49,
+      "events": 62
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_green",
+      "users": 23,
+      "events": 30
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_red",
+      "users": 24,
+      "events": 29
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "event": "gc_submission",
+      "result": "result_yellow",
+      "users": 3,
+      "events": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "event": "page_view",
+      "result": "",
+      "users": 636,
+      "events": 976
+    }
+  ],
+  "ready": true,
+  "message": ""
+}
