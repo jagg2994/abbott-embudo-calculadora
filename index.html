@@ -24,7 +24,7 @@
     <section id="content" class="card">
       <div id="summary" class="summary"></div>
       <div class="chart-wrap"><svg id="chart" class="chart" viewBox="0 0 1420 720" role="img" aria-label="Diagrama Sankey de Growth Tool"></svg></div>
-      <div class="legend"><span><i class="dot" style="background:var(--green)"></i>Resultado verde</span><span><i class="dot" style="background:var(--yellow)"></i>Resultado amarillo</span><span><i class="dot" style="background:var(--red)"></i>Resultado rojo</span></div>
+      <div class="legend"><span><i class="dot" style="background:var(--green)"></i>Resultado verde</span><span><i class="dot" style="background:var(--yellow)"></i>Resultado amarillo</span><span><i class="dot" style="background:var(--red)"></i>Resultado rojo</span><span><i class="dot" style="background:#88979b"></i>Sin resultado registrado</span></div>
       <section class="table-wrap"><h2>Participación de tráfico por canal</h2><p>Usuarios que llegaron a la URL de Growth Tool; el porcentaje se calcula sobre el total de llegadas del país seleccionado.</p><table><thead><tr><th>Canal</th><th class="num">Usuarios llegada</th><th class="num">% del país</th></tr></thead><tbody id="channels"></tbody></table></section>
       <p id="note" class="note"></p><p class="foot">La llegada se mide en usuarios. Desde <code>gc_submission</code>, los nodos se miden en eventos; por eso el grosor cambia al entrar al resultado calculado.</p>
     </section>
@@ -32,8 +32,8 @@
   <script>
     const $=s=>document.querySelector(s), nf=new Intl.NumberFormat('es-CO'), pct=v=>v==null?'—':`${(v*100).toLocaleString('es-CO',{maximumFractionDigits:1})}%`;
     const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-    const COLORS={result_green:'#54a66a',result_yellow:'#dda914',result_red:'#d95862'};
-    const RESULT_LABEL={result_green:'Resultado verde',result_yellow:'Resultado amarillo',result_red:'Resultado rojo'};
+    const COLORS={result_green:'#54a66a',result_yellow:'#dda914',result_red:'#d95862','(not set)':'#88979b'};
+    const RESULT_LABEL={result_green:'Resultado verde',result_yellow:'Resultado amarillo',result_red:'Resultado rojo','(not set)':'Sin resultado registrado'};
     let D;
     fetch('./data/growth-funnel-data.json').then(r=>r.json()).then(data=>{D=data;init()}).catch(()=>{$('#content').innerHTML='<p class="empty">No fue posible cargar los datos del embudo.</p>'});
     function init(){
@@ -65,7 +65,7 @@
         ['Resultados clasificados',resultTotal.events,`${resultCount?`${resultCount} tipos medidos`:'Sin parámetro result'}`],
         ['Clic copiar · verde',copy.events,'eventos gc_share_tool'],
         ['Clic cupón o registro',click.events,'eventos gc_register_button'],
-        ['Registro exitoso · sitio país',registered.events,'evento no atribuible aún a Growth Tool'],
+        ['Registro exitoso · Growth Tool',registered.events,'filtro estricto: sesión inició en Growth Tool'],
       ].map(([label,value,detail])=>`<div class="kpi"><small>${label}</small><strong>${nf.format(value)}</strong><span>${detail}</span></div>`).join('');
     }
     function renderChart(model){
@@ -92,7 +92,7 @@
       });
       const calculation=main.at(-1), resultX=875;
       if(model.results.length){
-        const positions={result_green:145,result_yellow:355,result_red:565};
+        const positions={result_green:105,result_yellow:270,result_red:440,'(not set)':600};
         model.results.forEach(result=>{
           const y=positions[result.id]??355,h=Math.max(38,Math.min(150,150*result.events/maxEvents));
           svg.insertAdjacentHTML('beforeend',link(calculation.x+32,355,resultX,y,weight(result.events),result.color));
@@ -104,22 +104,22 @@
       const copyX=1085, actionX=1195, registrationX=1350;
       if(model.copy.events){
         const green=model.results.find(result=>result.id==='result_green'), h=Math.max(42,Math.min(220,220*model.copy.events/maxEvents));
-        if(green)svg.insertAdjacentHTML('beforeend',link(resultX+30,145,copyX,145,weight(model.copy.events),'#54a66a'));
-        svg.insertAdjacentHTML('beforeend',node(copyX,145-h/2,32,h,'#54a66a','Clic en copiar',model.copy,'gc_share_tool · ruta verde'));
+        if(green)svg.insertAdjacentHTML('beforeend',link(resultX+30,105,copyX,105,weight(model.copy.events),'#54a66a'));
+        svg.insertAdjacentHTML('beforeend',node(copyX,105-h/2,32,h,'#54a66a','Clic en copiar',model.copy,'gc_share_tool · ruta verde'));
       }
       if(model.click.events){
         const h=Math.max(42,Math.min(240,240*model.click.events/maxEvents));
-        ['result_yellow','result_red'].forEach(id=>{const result=model.results.find(item=>item.id===id);if(result)svg.insertAdjacentHTML('beforeend',link(resultX+30,id==='result_yellow'?355:565,actionX,355,10,result.color,true));});
+        ['result_yellow','result_red'].forEach(id=>{const result=model.results.find(item=>item.id===id);if(result)svg.insertAdjacentHTML('beforeend',link(resultX+30,id==='result_yellow'?270:440,actionX,355,10,result.color,true));});
         svg.insertAdjacentHTML('beforeend',node(actionX,355-h/2,32,h,'#408e9d','Clic cupón o registro',model.click,'gc_register_button · rutas amarillo y rojo'));
       }
       if(model.registered.events){
         const h=Math.max(42,Math.min(240,240*model.registered.events/maxEvents)), from=model.click.events?actionX+32:calculation.x+32;
-        svg.insertAdjacentHTML('beforeend',link(from,355,registrationX,355,weight(model.registered.events),'#7f8e92',true));
-        svg.insertAdjacentHTML('beforeend',node(registrationX,355-h/2,32,h,'#7f8e92','Registro exitoso · sitio',model.registered,'No atribuible aún a Growth Tool'));
+        svg.insertAdjacentHTML('beforeend',link(from,355,registrationX,355,weight(model.registered.events),'#1b7185',true));
+        svg.insertAdjacentHTML('beforeend',node(registrationX,355-h/2,32,h,'#1b7185','Registro exitoso',model.registered,'Filtro estricto: sesión inició en Growth Tool'));
       } else {
         svg.insertAdjacentHTML('beforeend','<text class="node-meta" x="1320" y="355" text-anchor="middle">Sin evento de registro exitoso medido</text>');
       }
-      $('#note').textContent='Validación: gc_submission se reparte exactamente entre rojo, amarillo y verde. La llegada usa usuarios; desde gc_submission todo se expresa como eventos. Por definición de la experiencia, verde conduce a copiar y amarillo/rojo conducen al registro. El nodo gris de registro es una referencia de eventos de todo el sitio del país: no se interpreta como una conversión de Growth Tool hasta medir el origen o el resultado dentro de registro_exitoso.';
+      $('#note').textContent='Validación: gc_submission se reparte entre rojo, amarillo, verde y —si ocurre— “sin resultado registrado”, que evidencia un gap de instrumentación. La llegada usa usuarios; desde gc_submission todo se expresa como eventos. Por definición de la experiencia, verde conduce a copiar y amarillo/rojo conducen al registro. Registro exitoso aplica un filtro estricto: solo conserva sesiones cuya landing fue Growth Tool; excluye pauta y llegadas directas a registro. Para una atribución definitiva al resultado rojo/amarillo todavía se requiere enviar flow_origin y growth_result en registro_exitoso.';
     }
   </script>
 </body>

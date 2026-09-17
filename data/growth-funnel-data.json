@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:25:09.789Z",
+  "generatedAt": "2026-09-17T16:17:50.858Z",
   "metrics": [
     "Usuarios",
     "Eventos"
@@ -58,14 +58,6 @@
       "result": "",
       "users": 1,
       "events": 4
-    },
-    {
-      "country": "AR",
-      "channel": "AI Assistant",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 3,
-      "events": 3
     },
     {
       "country": "AR",
@@ -136,8 +128,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 164,
-      "events": 181
+      "users": 5,
+      "events": 5
     },
     {
       "country": "AR",
@@ -216,8 +208,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 74,
-      "events": 89
+      "users": 10,
+      "events": 13
     },
     {
       "country": "AR",
@@ -288,8 +280,8 @@
       "channel": "Display",
       "event": "registro_exitoso",
       "result": "",
-      "users": 38,
-      "events": 42
+      "users": 2,
+      "events": 2
     },
     {
       "country": "AR",
@@ -349,14 +341,6 @@
     },
     {
       "country": "AR",
-      "channel": "Email",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
-    },
-    {
-      "country": "AR",
       "channel": "Organic Search",
       "event": "form_start",
       "result": "",
@@ -413,14 +397,6 @@
     },
     {
       "country": "AR",
-      "channel": "Organic Search",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 114,
-      "events": 134
-    },
-    {
-      "country": "AR",
       "channel": "Organic Social",
       "event": "form_start",
       "result": "",
@@ -458,14 +434,6 @@
       "result": "",
       "users": 30,
       "events": 68
-    },
-    {
-      "country": "AR",
-      "channel": "Organic Social",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 2,
-      "events": 2
     },
     {
       "country": "AR",
@@ -544,8 +512,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 328,
-      "events": 367
+      "users": 24,
+      "events": 28
     },
     {
       "country": "AR",
@@ -656,8 +624,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 144,
-      "events": 199
+      "users": 1,
+      "events": 1
     },
     {
       "country": "AR",
@@ -708,14 +676,6 @@
       "events": 39
     },
     {
-      "country": "AR",
-      "channel": "Unassigned",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 2,
-      "events": 2
-    },
-    {
       "country": "CL",
       "channel": "AI Assistant",
       "event": "gc_submission",
@@ -746,14 +706,6 @@
       "result": "",
       "users": 4,
       "events": 6
-    },
-    {
-      "country": "CL",
-      "channel": "AI Assistant",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 5,
-      "events": 5
     },
     {
       "country": "CL",
@@ -816,8 +768,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 72,
-      "events": 77
+      "users": 3,
+      "events": 3
     },
     {
       "country": "CL",
@@ -880,8 +832,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 798,
-      "events": 987
+      "users": 21,
+      "events": 22
     },
     {
       "country": "CL",
@@ -906,14 +858,6 @@
       "result": "",
       "users": 3067,
       "events": 4136
-    },
-    {
-      "country": "CL",
-      "channel": "Display",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 45,
-      "events": 45
     },
     {
       "country": "CL",
@@ -960,8 +904,8 @@
       "channel": "Email",
       "event": "registro_exitoso",
       "result": "",
-      "users": 71,
-      "events": 83
+      "users": 1,
+      "events": 1
     },
     {
       "country": "CL",
@@ -1024,8 +968,8 @@
       "channel": "Organic Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 332,
-      "events": 368
+      "users": 1,
+      "events": 1
     },
     {
       "country": "CL",
@@ -1066,14 +1010,6 @@
       "result": "",
       "users": 202,
       "events": 313
-    },
-    {
-      "country": "CL",
-      "channel": "Organic Social",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 34,
-      "events": 37
     },
     {
       "country": "CL",
@@ -1130,14 +1066,6 @@
       "result": "",
       "users": 21786,
       "events": 29459
-    },
-    {
-      "country": "CL",
-      "channel": "Paid Other",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
     },
     {
       "country": "CL",
@@ -1200,8 +1128,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 1824,
-      "events": 1970
+      "users": 16,
+      "events": 16
     },
     {
       "country": "CL",
@@ -1264,8 +1192,8 @@
       "channel": "Paid Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 302,
-      "events": 330
+      "users": 277,
+      "events": 300
     },
     {
       "country": "CL",
@@ -1352,8 +1280,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 89,
-      "events": 113
+      "users": 10,
+      "events": 12
     },
     {
       "country": "CL",
@@ -1408,8 +1336,8 @@
       "channel": "Unassigned",
       "event": "registro_exitoso",
       "result": "",
-      "users": 136,
-      "events": 143
+      "users": 4,
+      "events": 4
     },
     {
       "country": "CO",
@@ -1464,8 +1392,8 @@
       "channel": "AI Assistant",
       "event": "registro_exitoso",
       "result": "",
-      "users": 26,
-      "events": 27
+      "users": 1,
+      "events": 1
     },
     {
       "country": "CO",
@@ -1528,8 +1456,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 4551,
-      "events": 7641
+      "users": 3573,
+      "events": 6018
     },
     {
       "country": "CO",
@@ -1592,8 +1520,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 6552,
-      "events": 10778
+      "users": 1200,
+      "events": 2095
     },
     {
       "country": "CO",
@@ -1656,8 +1584,8 @@
       "channel": "Email",
       "event": "registro_exitoso",
       "result": "",
-      "users": 520,
-      "events": 939
+      "users": 95,
+      "events": 205
     },
     {
       "country": "CO",
@@ -1720,8 +1648,8 @@
       "channel": "Organic Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 5107,
-      "events": 8547
+      "users": 473,
+      "events": 1082
     },
     {
       "country": "CO",
@@ -1784,16 +1712,8 @@
       "channel": "Organic Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 61,
-      "events": 79
-    },
-    {
-      "country": "CO",
-      "channel": "Organic Video",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
+      "users": 34,
+      "events": 49
     },
     {
       "country": "CO",
@@ -1832,8 +1752,8 @@
       "channel": "Paid Other",
       "event": "registro_exitoso",
       "result": "",
-      "users": 3,
-      "events": 3
+      "users": 1,
+      "events": 1
     },
     {
       "country": "CO",
@@ -1896,8 +1816,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 8169,
-      "events": 13387
+      "users": 710,
+      "events": 1612
     },
     {
       "country": "CO",
@@ -1960,8 +1880,8 @@
       "channel": "Paid Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 1664,
-      "events": 2044
+      "users": 1633,
+      "events": 1974
     },
     {
       "country": "CO",
@@ -2008,8 +1928,8 @@
       "channel": "Paid Video",
       "event": "registro_exitoso",
       "result": "",
-      "users": 2,
-      "events": 2
+      "users": 1,
+      "events": 1
     },
     {
       "country": "CO",
@@ -2072,16 +1992,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 295,
-      "events": 528
-    },
-    {
-      "country": "CO",
-      "channel": "SMS",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
+      "users": 21,
+      "events": 26
     },
     {
       "country": "CO",
@@ -2144,8 +2056,8 @@
       "channel": "Unassigned",
       "event": "registro_exitoso",
       "result": "",
-      "users": 732,
-      "events": 1145
+      "users": 131,
+      "events": 292
     },
     {
       "country": "CR",
@@ -3149,14 +3061,6 @@
     },
     {
       "country": "EC",
-      "channel": "AI Assistant",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 7,
-      "events": 7
-    },
-    {
-      "country": "EC",
       "channel": "Cross-network",
       "event": "gc_register_button",
       "result": "",
@@ -3216,8 +3120,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 23,
-      "events": 27
+      "users": 4,
+      "events": 4
     },
     {
       "country": "EC",
@@ -3280,8 +3184,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 226,
-      "events": 344
+      "users": 55,
+      "events": 109
     },
     {
       "country": "EC",
@@ -3314,14 +3218,6 @@
       "result": "",
       "users": 1192,
       "events": 1411
-    },
-    {
-      "country": "EC",
-      "channel": "Display",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 8,
-      "events": 10
     },
     {
       "country": "EC",
@@ -3362,14 +3258,6 @@
       "result": "",
       "users": 10,
       "events": 14
-    },
-    {
-      "country": "EC",
-      "channel": "Email",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
     },
     {
       "country": "EC",
@@ -3432,8 +3320,8 @@
       "channel": "Organic Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 82,
-      "events": 91
+      "users": 2,
+      "events": 2
     },
     {
       "country": "EC",
@@ -3496,8 +3384,8 @@
       "channel": "Organic Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 18,
-      "events": 20
+      "users": 7,
+      "events": 8
     },
     {
       "country": "EC",
@@ -3592,8 +3480,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 155,
-      "events": 165
+      "users": 50,
+      "events": 52
     },
     {
       "country": "EC",
@@ -3656,8 +3544,8 @@
       "channel": "Paid Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 893,
-      "events": 901
+      "users": 699,
+      "events": 704
     },
     {
       "country": "EC",
@@ -3720,8 +3608,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 72,
-      "events": 130
+      "users": 16,
+      "events": 39
     },
     {
       "country": "EC",
@@ -3784,8 +3672,8 @@
       "channel": "Unassigned",
       "event": "registro_exitoso",
       "result": "",
-      "users": 4,
-      "events": 4
+      "users": 2,
+      "events": 2
     },
     {
       "country": "GT",
@@ -4733,14 +4621,6 @@
     },
     {
       "country": "MX",
-      "channel": "AI Assistant",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 4,
-      "events": 4
-    },
-    {
-      "country": "MX",
       "channel": "Cross-network",
       "event": "gc_register_button",
       "result": "",
@@ -4800,8 +4680,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 332,
-      "events": 441
+      "users": 17,
+      "events": 19
     },
     {
       "country": "MX",
@@ -4864,8 +4744,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 610,
-      "events": 803
+      "users": 107,
+      "events": 129
     },
     {
       "country": "MX",
@@ -4922,14 +4802,6 @@
       "result": "",
       "users": 346,
       "events": 427
-    },
-    {
-      "country": "MX",
-      "channel": "Display",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 80,
-      "events": 82
     },
     {
       "country": "MX",
@@ -4992,8 +4864,8 @@
       "channel": "Email",
       "event": "registro_exitoso",
       "result": "",
-      "users": 140,
-      "events": 196
+      "users": 4,
+      "events": 4
     },
     {
       "country": "MX",
@@ -5056,8 +4928,8 @@
       "channel": "Organic Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 676,
-      "events": 782
+      "users": 7,
+      "events": 7
     },
     {
       "country": "MX",
@@ -5120,8 +4992,8 @@
       "channel": "Organic Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 42,
-      "events": 51
+      "users": 15,
+      "events": 16
     },
     {
       "country": "MX",
@@ -5130,14 +5002,6 @@
       "result": "",
       "users": 3,
       "events": 3
-    },
-    {
-      "country": "MX",
-      "channel": "Paid Other",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 6,
-      "events": 6
     },
     {
       "country": "MX",
@@ -5200,8 +5064,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 323,
-      "events": 351
+      "users": 11,
+      "events": 11
     },
     {
       "country": "MX",
@@ -5264,8 +5128,8 @@
       "channel": "Paid Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 2739,
-      "events": 2910
+      "users": 2331,
+      "events": 2379
     },
     {
       "country": "MX",
@@ -5368,8 +5232,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 120,
-      "events": 196
+      "users": 40,
+      "events": 72
     },
     {
       "country": "MX",
@@ -5432,8 +5296,8 @@
       "channel": "Unassigned",
       "event": "registro_exitoso",
       "result": "",
-      "users": 39,
-      "events": 43
+      "users": 7,
+      "events": 7
     },
     {
       "country": "NI",
@@ -6413,14 +6277,6 @@
     },
     {
       "country": "PE",
-      "channel": "AI Assistant",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 13,
-      "events": 14
-    },
-    {
-      "country": "PE",
       "channel": "Cross-network",
       "event": "gc_register_button",
       "result": "",
@@ -6480,8 +6336,8 @@
       "channel": "Cross-network",
       "event": "registro_exitoso",
       "result": "",
-      "users": 7398,
-      "events": 8578
+      "users": 320,
+      "events": 434
     },
     {
       "country": "PE",
@@ -6544,8 +6400,8 @@
       "channel": "Direct",
       "event": "registro_exitoso",
       "result": "",
-      "users": 929,
-      "events": 1194
+      "users": 23,
+      "events": 26
     },
     {
       "country": "PE",
@@ -6608,8 +6464,8 @@
       "channel": "Display",
       "event": "registro_exitoso",
       "result": "",
-      "users": 2,
-      "events": 2
+      "users": 1,
+      "events": 1
     },
     {
       "country": "PE",
@@ -6672,8 +6528,8 @@
       "channel": "Email",
       "event": "registro_exitoso",
       "result": "",
-      "users": 55,
-      "events": 74
+      "users": 1,
+      "events": 2
     },
     {
       "country": "PE",
@@ -6736,8 +6592,8 @@
       "channel": "Organic Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 1084,
-      "events": 1461
+      "users": 10,
+      "events": 17
     },
     {
       "country": "PE",
@@ -6800,8 +6656,8 @@
       "channel": "Organic Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 80,
-      "events": 89
+      "users": 11,
+      "events": 13
     },
     {
       "country": "PE",
@@ -6842,14 +6698,6 @@
       "result": "",
       "users": 71,
       "events": 87
-    },
-    {
-      "country": "PE",
-      "channel": "Organic Video",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 1,
-      "events": 1
     },
     {
       "country": "PE",
@@ -6898,14 +6746,6 @@
       "result": "",
       "users": 212,
       "events": 527
-    },
-    {
-      "country": "PE",
-      "channel": "Paid Other",
-      "event": "registro_exitoso",
-      "result": "",
-      "users": 13,
-      "events": 18
     },
     {
       "country": "PE",
@@ -6968,8 +6808,8 @@
       "channel": "Paid Search",
       "event": "registro_exitoso",
       "result": "",
-      "users": 343,
-      "events": 468
+      "users": 197,
+      "events": 265
     },
     {
       "country": "PE",
@@ -7032,8 +6872,8 @@
       "channel": "Paid Social",
       "event": "registro_exitoso",
       "result": "",
-      "users": 6706,
-      "events": 8743
+      "users": 3018,
+      "events": 4587
     },
     {
       "country": "PE",
@@ -7096,8 +6936,8 @@
       "channel": "Paid Video",
       "event": "registro_exitoso",
       "result": "",
-      "users": 7,
-      "events": 7
+      "users": 3,
+      "events": 3
     },
     {
       "country": "PE",
@@ -7160,8 +7000,8 @@
       "channel": "Referral",
       "event": "registro_exitoso",
       "result": "",
-      "users": 77,
-      "events": 97
+      "users": 7,
+      "events": 7
     },
     {
       "country": "PE",
@@ -7224,8 +7064,8 @@
       "channel": "Unassigned",
       "event": "registro_exitoso",
       "result": "",
-      "users": 406,
-      "events": 490
+      "users": 10,
+      "events": 13
     },
     {
       "country": "SV",
