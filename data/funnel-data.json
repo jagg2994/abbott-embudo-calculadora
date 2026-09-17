@@ -1,0 +1,5086 @@
+{
+  "generatedAt": "2026-09-17T14:50:06.680Z",
+  "period": "2026-06-15 a 2026-09-15",
+  "metric": "eventCount",
+  "metricLabel": "Eventos GA4",
+  "deviceScope": "mobile",
+  "steps": [
+    {
+      "id": "page_view",
+      "label": "Visitas mobile"
+    },
+    {
+      "id": "form_start",
+      "label": "Formulario iniciado"
+    },
+    {
+      "id": "start_form_submit",
+      "label": "Formulario enviado"
+    },
+    {
+      "id": "muscle_calculator_start",
+      "label": "Calculadora iniciada"
+    },
+    {
+      "id": "motion_permission_result",
+      "label": "Permiso de movimiento"
+    },
+    {
+      "id": "calibration_start",
+      "label": "Calibración iniciada"
+    },
+    {
+      "id": "test_start",
+      "label": "Test iniciado"
+    },
+    {
+      "id": "test_complete",
+      "label": "Test completado"
+    },
+    {
+      "id": "muscle_calculator_submission",
+      "label": "Resultado enviado"
+    },
+    {
+      "id": "coupon_get_click",
+      "label": "Interés por cupón"
+    },
+    {
+      "id": "coupon_claim_click",
+      "label": "Cupón reclamado"
+    }
+  ],
+  "funnelRows": [
+    {
+      "country": "SV",
+      "values": {
+        "page_view": 43409,
+        "form_start": 14253,
+        "start_form_submit": 14952,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 9440,
+        "test_start": 7940,
+        "test_complete": 2075,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "GT",
+      "values": {
+        "page_view": 57644,
+        "form_start": 22029,
+        "start_form_submit": 23507,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 16250,
+        "test_start": 14478,
+        "test_complete": 4691,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 4578,
+        "coupon_claim_click": 3485
+      }
+    },
+    {
+      "country": "DO",
+      "values": {
+        "page_view": 42169,
+        "form_start": 15735,
+        "start_form_submit": 15914,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 10014,
+        "test_start": 8626,
+        "test_complete": 2746,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "HN",
+      "values": {
+        "page_view": 90275,
+        "form_start": 20008,
+        "start_form_submit": 20923,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 13895,
+        "test_start": 11919,
+        "test_complete": 3448,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 2693,
+        "coupon_claim_click": 1905
+      }
+    },
+    {
+      "country": "CR",
+      "values": {
+        "page_view": 29764,
+        "form_start": 12724,
+        "start_form_submit": 13847,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 8418,
+        "test_start": 7487,
+        "test_complete": 2807,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 2080,
+        "coupon_claim_click": 1530
+      }
+    },
+    {
+      "country": "PA",
+      "values": {
+        "page_view": 15384,
+        "form_start": 5459,
+        "start_form_submit": 5990,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 3986,
+        "test_start": 3477,
+        "test_complete": 1037,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 879,
+        "coupon_claim_click": 704
+      }
+    },
+    {
+      "country": "NI",
+      "values": {
+        "page_view": 31637,
+        "form_start": 10263,
+        "start_form_submit": 10297,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 6962,
+        "test_start": 5828,
+        "test_complete": 1326,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "CO",
+      "values": {
+        "page_view": 159566,
+        "form_start": 57363,
+        "start_form_submit": 63078,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 39168,
+        "test_start": 33279,
+        "test_complete": 10707,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 3936,
+        "coupon_claim_click": 2630
+      }
+    },
+    {
+      "country": "PE",
+      "values": {
+        "page_view": 36433,
+        "form_start": 8215,
+        "start_form_submit": 8885,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 5723,
+        "test_start": 4796,
+        "test_complete": 1614,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "MX",
+      "values": {
+        "page_view": 160521,
+        "form_start": 53112,
+        "start_form_submit": 57876,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 33973,
+        "test_start": 29453,
+        "test_complete": 12635,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "CL",
+      "values": {
+        "page_view": 17296,
+        "form_start": 2189,
+        "start_form_submit": 2286,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 1303,
+        "test_start": 1020,
+        "test_complete": 286,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "EC",
+      "values": {
+        "page_view": 70751,
+        "form_start": 13710,
+        "start_form_submit": 14249,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 8505,
+        "test_start": 6613,
+        "test_complete": 1504,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    },
+    {
+      "country": "AR",
+      "values": {
+        "page_view": 23990,
+        "form_start": 10770,
+        "start_form_submit": 11069,
+        "muscle_calculator_start": 0,
+        "motion_permission_result": 0,
+        "calibration_start": 6069,
+        "test_start": 4984,
+        "test_complete": 1466,
+        "muscle_calculator_submission": 0,
+        "coupon_get_click": 0,
+        "coupon_claim_click": 0
+      }
+    }
+  ],
+  "acquisitionRows": [
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 432,
+      "users": 432,
+      "pageViews": 946
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 15
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 17
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 208,
+      "users": 148,
+      "pageViews": 241
+    },
+    {
+      "country": "AR",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 126,
+      "users": 88,
+      "pageViews": 246
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_BRAND",
+      "sessions": 5430,
+      "users": 4699,
+      "pageViews": 6580
+    },
+    {
+      "country": "AR",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_CATEGORY",
+      "sessions": 2492,
+      "users": 2094,
+      "pageViews": 2972
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 6
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_BRAND",
+      "sessions": 2468,
+      "users": 2366,
+      "pageViews": 2805
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_CATEGORY",
+      "sessions": 8516,
+      "users": 8234,
+      "pageViews": 9621
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ENSURE-CALCULADORA",
+      "sessions": 131,
+      "users": 129,
+      "pageViews": 141
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 6
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 233,
+      "users": 224,
+      "pageViews": 280
+    },
+    {
+      "country": "AR",
+      "channel": "Referral",
+      "sourceMedium": "syndicatedsearch.goog / referral",
+      "campaign": "(referral)",
+      "sessions": 8,
+      "users": 6,
+      "pageViews": 12
+    },
+    {
+      "country": "AR",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 57,
+      "users": 54,
+      "pageViews": 73
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 36,
+      "users": 36,
+      "pageViews": 76
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CHL_AON_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_NA_GEN",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 7
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CHL_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_CALCULADORA_NA",
+      "sessions": 692,
+      "users": 638,
+      "pageViews": 795
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 129,
+      "users": 127,
+      "pageViews": 136
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 973,
+      "users": 945,
+      "pageViews": 1081
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 26,
+      "users": 26,
+      "pageViews": 28
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 15
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 10
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 28,
+      "users": 26,
+      "pageViews": 32
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 21,
+      "users": 21,
+      "pageViews": 22
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 24,
+      "users": 21,
+      "pageViews": 24
+    },
+    {
+      "country": "CL",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 11,
+      "users": 9,
+      "pageViews": 12
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 42,
+      "users": 32,
+      "pageViews": 51
+    },
+    {
+      "country": "CL",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 30,
+      "users": 27,
+      "pageViews": 125
+    },
+    {
+      "country": "CL",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CHL_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_CALCULADORA_NA",
+      "sessions": 90,
+      "users": 65,
+      "pageViews": 129
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 7
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 15
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 44,
+      "users": 39,
+      "pageViews": 46
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "sourceMedium": "an / paid",
+      "campaign": "120244860660210443",
+      "sessions": 674,
+      "users": 484,
+      "pageViews": 794
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Other",
+      "sourceMedium": "th / paid",
+      "campaign": "120244860660210443",
+      "sessions": 84,
+      "users": 82,
+      "pageViews": 90
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "(not set)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "(referral)",
+      "sessions": 8,
+      "users": 4,
+      "pageViews": 9
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_DIS_ADS_CNS_DEG_CLI_CPC_25ABB_APR_ADU_NA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120244860660210443",
+      "sessions": 3710,
+      "users": 3486,
+      "pageViews": 3944
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "ig / paid",
+      "campaign": "120244860660210443",
+      "sessions": 261,
+      "users": 248,
+      "pageViews": 285
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_CHL_MAC-26-1_SSV_SS_META_CNV_AUCT_LEAD_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 9
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 5,
+      "users": 4,
+      "pageViews": 6
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 8133,
+      "users": 6818,
+      "pageViews": 8671
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "CL",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "sourceMedium": "asnadi.org / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 750,
+      "users": 697,
+      "pageViews": 838
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CL",
+      "channel": "Referral",
+      "sourceMedium": "threads.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "CL",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 9
+    },
+    {
+      "country": "CO",
+      "channel": "AI Assistant",
+      "sourceMedium": "chatgpt.com / ai-assistant",
+      "campaign": "(ai-assistant)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 2019,
+      "users": 2021,
+      "pageViews": 4115
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 39121,
+      "users": 36795,
+      "pageViews": 46325
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 49757,
+      "users": 42044,
+      "pageViews": 52522
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 26,
+      "users": 19,
+      "pageViews": 30
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 26,
+      "users": 26,
+      "pageViews": 28
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 14,
+      "users": 14,
+      "pageViews": 15
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 17,
+      "users": 14,
+      "pageViews": 20
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 5
+    },
+    {
+      "country": "CO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 195,
+      "users": 150,
+      "pageViews": 233
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 751,
+      "users": 554,
+      "pageViews": 1070
+    },
+    {
+      "country": "CO",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 4,
+      "users": 3,
+      "pageViews": 7
+    },
+    {
+      "country": "CO",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 96,
+      "users": 73,
+      "pageViews": 133
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 17,
+      "users": 16,
+      "pageViews": 18
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 7
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 110,
+      "users": 74,
+      "pageViews": 157
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 143,
+      "users": 135,
+      "pageViews": 171
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 11,
+      "users": 6,
+      "pageViews": 16
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 7
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 17,
+      "users": 16,
+      "pageViews": 23
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 54,
+      "users": 53,
+      "pageViews": 60
+    },
+    {
+      "country": "CO",
+      "channel": "Organic Social",
+      "sourceMedium": "meta / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU_PMAX",
+      "sessions": 44,
+      "users": 44,
+      "pageViews": 44
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU_PMAX",
+      "sessions": 36,
+      "users": 36,
+      "pageViews": 43
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242299943030452",
+      "sessions": 117,
+      "users": 74,
+      "pageViews": 159
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "ig / paid",
+      "campaign": "120242299943030452",
+      "sessions": 22,
+      "users": 22,
+      "pageViews": 28
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_META_CNV_AUCT_SHO_CPCONVERSION_200F6_MAY_ADU_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_META_CNV_AUCT_SHO_CPCONVERSION_200F6_MAY_ADU_NA",
+      "sessions": 47713,
+      "users": 44623,
+      "pageViews": 53291
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 9
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 9
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 6,
+      "users": 4,
+      "pageViews": 6
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "CO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 17
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 428,
+      "users": 374,
+      "pageViews": 495
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "sourceMedium": "search-dra.dt.dbankcloud.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "CO",
+      "channel": "Referral",
+      "sourceMedium": "search.app / referral",
+      "campaign": "(referral)",
+      "sessions": 8,
+      "users": 7,
+      "pageViews": 8
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 420,
+      "users": 403,
+      "pageViews": 462
+    },
+    {
+      "country": "CO",
+      "channel": "Unassigned",
+      "sourceMedium": "aDqCFY / ILz",
+      "campaign": "fNOlrF_rNC_gCn_ppS-88-7_AAy_lr_KIPj_TDe_ogOF_byD_qpMtoVoDpyPc_05SiY_ulU_jyc_SdiS",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 316,
+      "users": 298,
+      "pageViews": 654
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 10
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 24,
+      "users": 24,
+      "pageViews": 24
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 10060,
+      "users": 8415,
+      "pageViews": 11546
+    },
+    {
+      "country": "CR",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 8,
+      "users": 8,
+      "pageViews": 14
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 26,
+      "users": 23,
+      "pageViews": 31
+    },
+    {
+      "country": "CR",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 118,
+      "users": 93,
+      "pageViews": 241
+    },
+    {
+      "country": "CR",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 62,
+      "users": 58,
+      "pageViews": 80
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 3,
+      "pageViews": 4
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 4,
+      "users": 2,
+      "pageViews": 4
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 22,
+      "users": 22,
+      "pageViews": 22
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 67,
+      "users": 63,
+      "pageViews": 97
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 66,
+      "users": 56,
+      "pageViews": 85
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 18,
+      "users": 16,
+      "pageViews": 24
+    },
+    {
+      "country": "CR",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 15
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_CRI_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 73,
+      "users": 1,
+      "pageViews": 132
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 19,
+      "users": 19,
+      "pageViews": 19
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 131,
+      "users": 14,
+      "pageViews": 233
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_DEC_ADU_ESTRATEGICO",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1429,
+      "users": 1372,
+      "pageViews": 1598
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESRTRATEGICO",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242999655340006",
+      "sessions": 219,
+      "users": 214,
+      "pageViews": 246
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 63,
+      "users": 60,
+      "pageViews": 76
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 12742,
+      "users": 11537,
+      "pageViews": 14465
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "CR",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 4,
+      "users": 3,
+      "pageViews": 4
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 14
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "CR",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 34,
+      "users": 32,
+      "pageViews": 36
+    },
+    {
+      "country": "CR",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 54,
+      "users": 51,
+      "pageViews": 61
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 558,
+      "users": 544,
+      "pageViews": 1109
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 18,
+      "users": 18,
+      "pageViews": 20
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 14,
+      "users": 14,
+      "pageViews": 14
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 17145,
+      "users": 15189,
+      "pageViews": 21222
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 14,
+      "users": 12,
+      "pageViews": 22
+    },
+    {
+      "country": "DO",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 55,
+      "users": 41,
+      "pageViews": 144
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 4
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Search",
+      "sourceMedium": "google / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 81,
+      "users": 80,
+      "pageViews": 85
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 14,
+      "users": 13,
+      "pageViews": 15
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 17
+    },
+    {
+      "country": "DO",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Other",
+      "sourceMedium": "dv360 / cpc",
+      "campaign": "ABBOTT_ENS_DOM_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESRTRATEGICO",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_DOM_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 11,
+      "users": 11,
+      "pageViews": 13
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 18,
+      "users": 17,
+      "pageViews": 20
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 68,
+      "users": 68,
+      "pageViews": 69
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 54,
+      "users": 24,
+      "pageViews": 58
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 21,
+      "users": 8,
+      "pageViews": 21
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2089,
+      "users": 1990,
+      "pageViews": 2352
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242999600630006",
+      "sessions": 120,
+      "users": 119,
+      "pageViews": 141
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 72,
+      "users": 63,
+      "pageViews": 89
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 14676,
+      "users": 14650,
+      "pageViews": 16523
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "DO",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 57,
+      "users": 51,
+      "pageViews": 68
+    },
+    {
+      "country": "DO",
+      "channel": "Referral",
+      "sourceMedium": "usc-excel.officeapps.live.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "DO",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 100,
+      "users": 96,
+      "pageViews": 133
+    },
+    {
+      "country": "EC",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 88,
+      "users": 49,
+      "pageViews": 116
+    },
+    {
+      "country": "EC",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 62,
+      "users": 41,
+      "pageViews": 155
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 42,
+      "users": 42,
+      "pageViews": 42
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 30,
+      "users": 30,
+      "pageViews": 30
+    },
+    {
+      "country": "EC",
+      "channel": "Organic Social",
+      "sourceMedium": "meta / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_CATEGORY",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120245901201460429",
+      "sessions": 59,
+      "users": 56,
+      "pageViews": 68
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_AON_ADU_NA",
+      "sessions": 9335,
+      "users": 8375,
+      "pageViews": 10108
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "calculadora",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 10062,
+      "users": 9611,
+      "pageViews": 10495
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_AON_ADU_N/A",
+      "sessions": 29646,
+      "users": 27164,
+      "pageViews": 32749
+    },
+    {
+      "country": "EC",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 14796,
+      "users": 13463,
+      "pageViews": 16508
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 276,
+      "users": 267,
+      "pageViews": 318
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "sourceMedium": "keep.google.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Referral",
+      "sourceMedium": "teams.public.onecdn.static.microsoft / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "EC",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 108,
+      "users": 104,
+      "pageViews": 139
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 893,
+      "users": 854,
+      "pageViews": 1792
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 23099,
+      "users": 19568,
+      "pageViews": 27703
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 190,
+      "users": 157,
+      "pageViews": 243
+    },
+    {
+      "country": "GT",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 98,
+      "users": 81,
+      "pageViews": 190
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Search",
+      "sourceMedium": "google / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 302,
+      "users": 290,
+      "pageViews": 353
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 7
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 11,
+      "users": 11,
+      "pageViews": 12
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 192,
+      "users": 182,
+      "pageViews": 269
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 193,
+      "users": 175,
+      "pageViews": 276
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 599,
+      "users": 583,
+      "pageViews": 763
+    },
+    {
+      "country": "GT",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 12,
+      "users": 12,
+      "pageViews": 17
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NAç",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 5
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 26,
+      "users": 26,
+      "pageViews": 26
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 95,
+      "users": 48,
+      "pageViews": 97
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_DEC_ADU_ESTRATEGICO",
+      "sessions": 18,
+      "users": 9,
+      "pageViews": 20
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_MAR_ADU_ESTRATEGICO",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESTRATEGICO",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NAç",
+      "sessions": 20,
+      "users": 14,
+      "pageViews": 25
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1659,
+      "users": 1601,
+      "pageViews": 1851
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242998082460006",
+      "sessions": 38,
+      "users": 38,
+      "pageViews": 47
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 97,
+      "users": 92,
+      "pageViews": 118
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 8,
+      "users": 7,
+      "pageViews": 8
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 20248,
+      "users": 18558,
+      "pageViews": 23540
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 14,
+      "users": 14,
+      "pageViews": 16
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 42,
+      "users": 39,
+      "pageViews": 60
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "sourceMedium": "--sanitized-- / --sanitized--",
+      "campaign": "--sanitized--",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "GT",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 116,
+      "users": 116,
+      "pageViews": 139
+    },
+    {
+      "country": "HN",
+      "channel": "AI Assistant",
+      "sourceMedium": "chatgpt.com / ai-assistant",
+      "campaign": "(ai-assistant)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 871,
+      "users": 849,
+      "pageViews": 1847
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 42,
+      "users": 42,
+      "pageViews": 87
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 304,
+      "users": 299,
+      "pageViews": 325
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 1068,
+      "users": 1039,
+      "pageViews": 1153
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 59,
+      "users": 57,
+      "pageViews": 66
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 525,
+      "users": 514,
+      "pageViews": 579
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5,
+      "users": 4,
+      "pageViews": 5
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 23,
+      "users": 22,
+      "pageViews": 28
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 7,
+      "users": 7,
+      "pageViews": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 24279,
+      "users": 20111,
+      "pageViews": 30529
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 14,
+      "users": 14,
+      "pageViews": 18
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 10,
+      "users": 10,
+      "pageViews": 11
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 8,
+      "users": 8,
+      "pageViews": 9
+    },
+    {
+      "country": "HN",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 131,
+      "users": 75,
+      "pageViews": 159
+    },
+    {
+      "country": "HN",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 167,
+      "users": 112,
+      "pageViews": 305
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "sourceMedium": "google / (not set)",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 397,
+      "users": 325,
+      "pageViews": 577
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 33,
+      "users": 33,
+      "pageViews": 39
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 7,
+      "users": 7,
+      "pageViews": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 11
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 57,
+      "users": 51,
+      "pageViews": 78
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 39,
+      "users": 30,
+      "pageViews": 61
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 5
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 47,
+      "users": 45,
+      "pageViews": 53
+    },
+    {
+      "country": "HN",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 14,
+      "users": 13,
+      "pageViews": 14
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_HND_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 55,
+      "users": 55,
+      "pageViews": 62
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 66,
+      "users": 66,
+      "pageViews": 66
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_CATEGORY",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 133,
+      "users": 26,
+      "pageViews": 133
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_DEC_ADU_ESRTRATEGICO",
+      "sessions": 15,
+      "users": 6,
+      "pageViews": 17
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESRTRATEGICO",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 11,
+      "users": 9,
+      "pageViews": 12
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1552,
+      "users": 1464,
+      "pageViews": 1791
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242999786420006",
+      "sessions": 79,
+      "users": 78,
+      "pageViews": 93
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_CHL_MAC-26-1_SSV_SS_META_CNV_AUCT_LEAD_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 32289,
+      "users": 26480,
+      "pageViews": 41334
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 7
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 43,
+      "users": 43,
+      "pageViews": 50
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 9697,
+      "users": 8257,
+      "pageViews": 10450
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "HN",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 18,
+      "users": 18,
+      "pageViews": 23
+    },
+    {
+      "country": "HN",
+      "channel": "Referral",
+      "sourceMedium": "search.app / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 132,
+      "users": 125,
+      "pageViews": 179
+    },
+    {
+      "country": "HN",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 16,
+      "users": 16,
+      "pageViews": 31
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 53,
+      "users": 53,
+      "pageViews": 106
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 55,
+      "users": 55,
+      "pageViews": 58
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 25361,
+      "users": 23529,
+      "pageViews": 29376
+    },
+    {
+      "country": "MX",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_1_NA",
+      "sessions": 6,
+      "users": 5,
+      "pageViews": 7
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 103,
+      "users": 80,
+      "pageViews": 109
+    },
+    {
+      "country": "MX",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 354,
+      "users": 253,
+      "pageViews": 467
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 8527,
+      "users": 7950,
+      "pageViews": 9931
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_1_NA",
+      "sessions": 8,
+      "users": 5,
+      "pageViews": 10
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_VID_YT_AWR_OPEN_IMP_CPM_26ABB_JUN_ADU_NA",
+      "sessions": 18,
+      "users": 16,
+      "pageViews": 18
+    },
+    {
+      "country": "MX",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_VID_YT_AWR_OPEN_IMP_CPM_26ABB_MAY_ADU_1",
+      "sessions": 16,
+      "users": 7,
+      "pageViews": 16
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "sourceMedium": "bing / organic",
+      "campaign": "(organic)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 6,
+      "users": 2,
+      "pageViews": 6
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 12,
+      "users": 11,
+      "pageViews": 17
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 13,
+      "users": 13,
+      "pageViews": 13
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 72,
+      "users": 57,
+      "pageViews": 76
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 736,
+      "users": 725,
+      "pageViews": 961
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 5
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 22,
+      "users": 22,
+      "pageViews": 23
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 14,
+      "users": 13,
+      "pageViews": 18
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 35,
+      "users": 33,
+      "pageViews": 41
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 7,
+      "users": 7,
+      "pageViews": 10
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 11,
+      "users": 11,
+      "pageViews": 13
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "meta / (not set)",
+      "campaign": "(not set)",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "MX",
+      "channel": "Organic Social",
+      "sourceMedium": "meta / referral",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA_NA",
+      "sessions": 147,
+      "users": 146,
+      "pageViews": 190
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_MAY_ADU_1_NA",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120249034916330165",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_CALCULADORA_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_MAY_ADU_1",
+      "sessions": 5,
+      "users": 4,
+      "pageViews": 8
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_CALCULADORA_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_MAY_ADU_2",
+      "sessions": 25,
+      "users": 4,
+      "pageViews": 28
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_APR_ADU_CONVERSION",
+      "sessions": 42,
+      "users": 21,
+      "pageViews": 43
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 38265,
+      "users": 34371,
+      "pageViews": 41845
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUN_ADU_NA",
+      "sessions": 7465,
+      "users": 6973,
+      "pageViews": 8880
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 29849,
+      "users": 28299,
+      "pageViews": 33585
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 11120,
+      "users": 10352,
+      "pageViews": 12184
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 3
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 10,
+      "users": 10,
+      "pageViews": 10
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 8,
+      "users": 7,
+      "pageViews": 8
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_AUCT_CLI_CPC_26ABB_MAY_ADU_1",
+      "sessions": 10,
+      "users": 7,
+      "pageViews": 12
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 18761,
+      "users": 17702,
+      "pageViews": 21505
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpm",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_AWR_OPEN_IMP_CPM_26ABB_JUN_ADU_EPSILON",
+      "sessions": 293,
+      "users": 287,
+      "pageViews": 325
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpm",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_AWR_OPEN_IMP_CPM_26ABB_MAY_ADU_1",
+      "sessions": 4,
+      "users": 2,
+      "pageViews": 5
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_VID_YT_AWR_OPEN_IMP_CPM_26ABB_JUN_ADU_NA",
+      "sessions": 11,
+      "users": 10,
+      "pageViews": 11
+    },
+    {
+      "country": "MX",
+      "channel": "Paid Video",
+      "sourceMedium": "youtube / cpm",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_VID_YT_AWR_OPEN_IMP_CPM_26ABB_JUN_ADU_NA",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 4
+    },
+    {
+      "country": "MX",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 84,
+      "users": 79,
+      "pageViews": 98
+    },
+    {
+      "country": "MX",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 415,
+      "users": 401,
+      "pageViews": 473
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 543,
+      "users": 537,
+      "pageViews": 1126
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_HND_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 14244,
+      "users": 12158,
+      "pageViews": 18143
+    },
+    {
+      "country": "NI",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 13,
+      "users": 11,
+      "pageViews": 13
+    },
+    {
+      "country": "NI",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 47,
+      "users": 39,
+      "pageViews": 140
+    },
+    {
+      "country": "NI",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_BRAND",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 8,
+      "users": 8,
+      "pageViews": 8
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 21,
+      "users": 21,
+      "pageViews": 25
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 17
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 13,
+      "users": 13,
+      "pageViews": 16
+    },
+    {
+      "country": "NI",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 13,
+      "users": 13,
+      "pageViews": 13
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_ARG_GROWTHCALCULATOR_SSV_SH_ADS_CNS_SEM_CLI_CPC_AONABB_JUN_PED_BRANDING_BRAND",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 82,
+      "users": 25,
+      "pageViews": 91
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_DEC_ADU_ESRTRATEGICO",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 933,
+      "users": 905,
+      "pageViews": 1034
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242999847950006",
+      "sessions": 147,
+      "users": 147,
+      "pageViews": 170
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 22,
+      "users": 21,
+      "pageViews": 28
+    },
+    {
+      "country": "NI",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 9036,
+      "users": 8217,
+      "pageViews": 10611
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 37,
+      "users": 35,
+      "pageViews": 47
+    },
+    {
+      "country": "NI",
+      "channel": "Referral",
+      "sourceMedium": "usc-excel.officeapps.live.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "sourceMedium": "--sanitized-- / --sanitized--",
+      "campaign": "--sanitized--",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "NI",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 99,
+      "users": 97,
+      "pageViews": 116
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 190,
+      "users": 187,
+      "pageViews": 377
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 86,
+      "users": 84,
+      "pageViews": 89
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 11,
+      "users": 11,
+      "pageViews": 14
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 6,
+      "users": 4,
+      "pageViews": 7
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5997,
+      "users": 5019,
+      "pageViews": 7043
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 38,
+      "users": 23,
+      "pageViews": 40
+    },
+    {
+      "country": "PA",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 55,
+      "users": 46,
+      "pageViews": 146
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "sourceMedium": "bing / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Search",
+      "sourceMedium": "mx.search.yahoo.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 4
+    },
+    {
+      "country": "PA",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 12,
+      "users": 12,
+      "pageViews": 12
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "sourceMedium": "dv360 / cpc",
+      "campaign": "ABBOTT_ENS_PAN_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_DEC_ADU_ESTRATEGICO",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Other",
+      "sourceMedium": "dv360 / cpc",
+      "campaign": "ABBOTT_ENS_PAN_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESTRATEGICO",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_PAN_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 11,
+      "users": 11,
+      "pageViews": 11
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 19,
+      "users": 4,
+      "pageViews": 21
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_CALCULADORAMUSCULAR_SSV_DIS_DBM_CNS_AUCT_CLI_CPC_24ABB_NOV_ADU_ESTRATEGICO",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 764,
+      "users": 738,
+      "pageViews": 837
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 4
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 110,
+      "users": 102,
+      "pageViews": 146
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 5824,
+      "users": 5300,
+      "pageViews": 6514
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PA",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 28,
+      "users": 28,
+      "pageViews": 35
+    },
+    {
+      "country": "PA",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 30,
+      "users": 30,
+      "pageViews": 33
+    },
+    {
+      "country": "PE",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 76,
+      "users": 76,
+      "pageViews": 146
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 48,
+      "users": 37,
+      "pageViews": 54
+    },
+    {
+      "country": "PE",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 91,
+      "users": 91,
+      "pageViews": 182
+    },
+    {
+      "country": "PE",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ANI_ENS_PER_CALCULADORAMUSCULAR_DRO_IGO_SEM_CNV_AUC_LGD_CPL_26ABB_JUL_ADU_FINAL",
+      "sessions": 1473,
+      "users": 1223,
+      "pageViews": 1849
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 5,
+      "users": 5,
+      "pageViews": 5
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(not set)",
+      "sessions": 9,
+      "users": 6,
+      "pageViews": 9
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 29,
+      "users": 28,
+      "pageViews": 37
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 3
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "l.instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 14,
+      "users": 13,
+      "pageViews": 15
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 22,
+      "users": 21,
+      "pageViews": 27
+    },
+    {
+      "country": "PE",
+      "channel": "Organic Social",
+      "sourceMedium": "meta / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "(organic)",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ANI_ENS_PER_CALCULADORAMUSCULAR_DRO_IGO_SEM_CNV_AUC_LGD_CPL_26ABB_JUL_ADU_FINAL",
+      "sessions": 1553,
+      "users": 1516,
+      "pageViews": 1767
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120243748781400413",
+      "sessions": 52,
+      "users": 50,
+      "pageViews": 55
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "ig / paid",
+      "campaign": "120243748781400413",
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 9
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPA_26ABB_JUL_ADU_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 3
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_CHL_CALCULADORAMUSCULAR_SSV_SS_META_CNS_AUCT_CLI_CPC_25ABB_JUL_ADU_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 5
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNV_AUCT_AWR_CPL_26ABB_AUG_CRM_NA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 6
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNS_OPEN_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 3,
+      "users": 3,
+      "pageViews": 5
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ANI_ENS_PER_MAC-26-1_DRO_IFB_SM_CNS_AUC_TFC_CPC_26ABB_MAY_ADU_EPSILONFINAL",
+      "sessions": 10820,
+      "users": 8302,
+      "pageViews": 14897
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ANI_ENS_PER_MAC-26-1_DRO_IFB_SM_CNV_AUC_CVN_CPAC_26ABB_MAY_ADU_EPSILON FINAL",
+      "sessions": 1415,
+      "users": 1321,
+      "pageViews": 1628
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ANI_ENS_PER_MAC-26-1_DRO_IFB_SM_CNV_AUC_CVN_CPAC_26ABB_MAY_ADU_EPSILONFINAL",
+      "sessions": 2519,
+      "users": 2280,
+      "pageViews": 2979
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ANI_ENS_PER_MAC-26-1_DRO_IFB_SM_CNV_AUC_CVN_CPAC_26ABB_MAY_ADU_FINAL",
+      "sessions": 7664,
+      "users": 7195,
+      "pageViews": 8953
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpm",
+      "campaign": "ANI_ENS_PER_MAC-26-1_DRO_IFB_SM_AWR_AUC_RCH_CPM_26ABB_MAY_ADU_EPSILONFINAL",
+      "sessions": 395,
+      "users": 389,
+      "pageViews": 453
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "tiktok / cpc",
+      "campaign": "ANI_ENS_PER_CONTIGO_APX_ITKX_SM_CNS_AUC_TFC_CPC_26ABB_AUG_ADU_CALCULADORA_FINAL_SEARCH",
+      "sessions": 283,
+      "users": 277,
+      "pageViews": 291
+    },
+    {
+      "country": "PE",
+      "channel": "Paid Social",
+      "sourceMedium": "tiktok / cpc",
+      "campaign": "ANI_ENS_PER_CONTIGO_APX_ITKX_SM_CNS_AUC_TFC_CPC_26ABB_SEP_ADU_CALCULADORA_FINAL_SEARCH",
+      "sessions": 1356,
+      "users": 1320,
+      "pageViews": 1470
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "sourceMedium": "72ada857ee3abc17ec18eccfe74ef8dd.safeframe.googlesyndication.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "sourceMedium": "904cab32583e6993423b796b87bed78e.safeframe.googlesyndication.com / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "sourceMedium": "asnadi.org / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 1206,
+      "users": 1115,
+      "pageViews": 1417
+    },
+    {
+      "country": "PE",
+      "channel": "Referral",
+      "sourceMedium": "convos.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "PE",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 114,
+      "users": 108,
+      "pageViews": 143
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "(data not available)",
+      "campaign": "(cross-network)",
+      "sessions": 789,
+      "users": 780,
+      "pageViews": 1615
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_AGO_ADU-PMAX",
+      "sessions": 89,
+      "users": 86,
+      "pageViews": 99
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_COL_MAC-26-1_SSV_SS_PMAX_CNV_AUCT_ACQ_CPCONVERSION_26ABB_MAY_ADU-PMAX",
+      "sessions": 40,
+      "users": 40,
+      "pageViews": 44
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_CRI_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_DOM_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 6,
+      "users": 6,
+      "pageViews": 6
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_NIC_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 2
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_PAN_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Cross-network",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 20873,
+      "users": 17715,
+      "pageViews": 25947
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 75,
+      "users": 35,
+      "pageViews": 85
+    },
+    {
+      "country": "SV",
+      "channel": "Direct",
+      "sourceMedium": "(direct) / (none)",
+      "campaign": "(direct)",
+      "sessions": 58,
+      "users": 46,
+      "pageViews": 156
+    },
+    {
+      "country": "SV",
+      "channel": "Display",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_DIS_ADS_CNS_DEG_CLI_CPC_26ABB_JUN_ADU_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Search",
+      "sourceMedium": "google / organic",
+      "campaign": "(organic)",
+      "sessions": 3,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 12,
+      "users": 11,
+      "pageViews": 12
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "ig / social",
+      "campaign": "(referral)",
+      "sessions": 2,
+      "users": 2,
+      "pageViews": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "instagram.com / referral",
+      "campaign": "(referral)",
+      "sessions": 98,
+      "users": 98,
+      "pageViews": 109
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "l.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 18,
+      "users": 18,
+      "pageViews": 21
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "lm.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 10,
+      "users": 8,
+      "pageViews": 13
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 15,
+      "users": 15,
+      "pageViews": 17
+    },
+    {
+      "country": "SV",
+      "channel": "Organic Social",
+      "sourceMedium": "m.facebook.com / referral",
+      "campaign": "(referral)",
+      "sessions": 10,
+      "users": 10,
+      "pageViews": 10
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_SLV_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 2,
+      "users": 1,
+      "pageViews": 3
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 37,
+      "users": 34,
+      "pageViews": 40
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpa",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 29,
+      "users": 29,
+      "pageViews": 29
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_CALCULADORA_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_MAC-26-1_NA",
+      "sessions": 78,
+      "users": 31,
+      "pageViews": 89
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_DIS_ADS_CNV_PMAX_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 7,
+      "users": 7,
+      "pageViews": 7
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Search",
+      "sourceMedium": "google / cpc",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_SH_ADS_CNV_SEM_ACQ_CPA_26ABB_APR_ADU_CALCULADORA_NA",
+      "sessions": 1514,
+      "users": 1447,
+      "pageViews": 1664
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "fb / paid",
+      "campaign": "120242999705030006",
+      "sessions": 390,
+      "users": 383,
+      "pageViews": 447
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_AUG_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpa",
+      "campaign": "ABBOTT_ENS_MEX_MAC-26-1_SSV_SS_META_CNV_OPEN_ACQ_CPCONVERSION_26ABB_SEP_ADU_SPARKMX",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "{{campaign.name}}",
+      "sessions": 39,
+      "users": 38,
+      "pageViews": 40
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_GTM_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "META / CPA",
+      "campaign": "ABBOTT_ENS_SLV_MAC-26-1_SSV_SS_META_CNV_AUCT_ACQ_CPA_26ABB_APR_ADU_CALCULADORA",
+      "sessions": 11877,
+      "users": 11069,
+      "pageViews": 12795
+    },
+    {
+      "country": "SV",
+      "channel": "Paid Social",
+      "sourceMedium": "meta / cpc",
+      "campaign": "ABBOTT_ENS_ECU_AON_SSV_SS_META_CNS_AUCT_AWR_CPC_26ABB_AUG_CRM_NA",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Referral",
+      "sourceMedium": "contigo.abbott / referral",
+      "campaign": "(referral)",
+      "sessions": 19,
+      "users": 19,
+      "pageViews": 20
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "sourceMedium": "--sanitized-- / --sanitized--",
+      "campaign": "--sanitized--",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 101,
+      "users": 99,
+      "pageViews": 119
+    },
+    {
+      "country": "SV",
+      "channel": "Unassigned",
+      "sourceMedium": "(not set)",
+      "campaign": "(not set)",
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1
+    }
+  ],
+  "sourceFunnelRows": [],
+  "attributionStatus": "pending_refresh",
+  "limitations": [
+    "Este extracto usa conteo de eventos GA4, no usuarios secuenciales. Un paso puede superar 100% del anterior; no se debe interpretar como abandono definitivo.",
+    "Falta ejecutar refreshMac2FunnelReport() para crear la tabla “MAC 2.0 - Funnel por fuente 3M”. Hasta entonces, canal y fuente/medio solo describen la adquisición, no filtran el embudo."
+  ]
+}
